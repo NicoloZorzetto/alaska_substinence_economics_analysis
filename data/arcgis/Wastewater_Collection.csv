@@ -1,0 +1,86 @@
+﻿X,Y,OBJECTID,CommunityName,UtilityType,FacilityName,FacilityOwner,Class,ResidentsServed,NumberOfServiceConnections,SystemID,NumberOfLiftStations,AsOfDate
+1041546.65601907,1173104.96179083,1,Haines,Wastewater Collection,Haines Wastewater Collection System,Haines Borough,WWC 2,1800,550,103,4,2023/07/31 08:00:00+00
+138629.431092521,1075412.72159425,2,Homer,Wastewater Collection,Homer Wastewater Collection System,"Homer, City of",WWC 2,5400,1500,111,6,2023/07/31 08:00:00+00
+796588.039603731,1148740.78088062,3,Yakutat,Wastewater Collection,Yakutat Wastewater Collection System,"Yakutat, City of",WWC 1,634,266,116,6,2023/07/31 08:00:00+00
+1306628.34428561,932518.315928681,4,Wrangell,Wastewater Collection,Wrangell Wastewater Collection System,"Wrangell, City of",WWC 2,1900,1150,120,13,2023/07/31 08:00:00+00
+240926.821971153,1297506.21747755,5,Wasilla,Wastewater Collection,Wasilla Wastewater Collection System,"Wasilla, City of",WWC 2,2685,895,123,1,2023/07/31 08:00:00+00
+-227607.668616794,2305095.9767901,6,Wainwright,Wastewater Collection,Wainwright Wastewater Collection System,North Slope Borough,WWC 1,556,202,127,2,2023/07/31 08:00:00+00
+409518.872278663,1262298.70131742,7,Valdez,Wastewater Collection,Valdez Wastewater Collection System,"Valdez, City of",WWC 2,3800,1103,130,8,2023/07/31 08:00:00+00
+329641.524476165,1651455.25649912,8,Eielson AFB,Wastewater Collection,Eielson Wastewater Collection System,US Air Force,WWC 3,9100,716,144,17,2023/07/31 08:00:00+00
+1115221.96070411,940259.193283325,9,Sitka,Wastewater Collection,Sitka Wastewater Collection System,"Sitka, City of",WWC 3,8200,2900,15,30,2023/07/31 08:00:00+00
+224056.214300624,1259961.58589164,10,JBER,Wastewater Collection,Fort Richardson Wastewater Collection System,"Doyon Utilities, LLC.",WWC 2,15585,750,151,1,2023/07/31 08:00:00+00
+301242.361861717,1666283.73876794,11,Fort Wainwright,Wastewater Collection,Fort Wainwright Wastewater Collection System,"Doyon Utilities, LLC.",WWC 3,10180,625,154,18,2023/07/31 08:00:00+00
+224056.214300624,1259961.58589164,12,JBER,Wastewater Collection,Elmendorf AFB Wastewater Collection System,US Air Force,WWC 2,18540,795,161,3,2023/07/31 08:00:00+00
+95027.5224326542,866747.9369809,13,Kodiak,Wastewater Collection,USCG Kodiak Wastewater Collection System,US Coast Guard,WWC 1,3150,267,165,6,2023/07/31 08:00:00+00
+-332652.664299918,1562728.30203533,14,Unalakleet,Wastewater Collection,Unalakleet Wastewater Collection System,"Unalakleet, City of",WWC 1,800,203,172,4,2023/07/31 08:00:00+00
+-821101.945279297,506511.382085757,15,Unalaska,Wastewater Collection,Unalaska Wastewater Collection System,"Unalaska, City of",WWC 2,4300,526,176,12,2023/07/31 08:00:00+00
+-364120.520402744,1024741.77608156,16,Togiak,Wastewater Collection,Togiak Wastewater Collection System,"Togiak, City of",WWC 1,800,130,193,3,2023/07/31 08:00:00+00
+1326319.36788725,846815.094827237,17,Thorne Bay,Wastewater Collection,Thorne Bay Wastewater Collection System,"Thorne Bay, City of",WWC 1,348,203,198,4,2023/07/31 08:00:00+00
+200806.566477601,1377989.09479474,18,Talkeetna,Wastewater Collection,Talkeetna Wastewater Collection System,"Talkeetna, City of",WWC 1,450,215,208,3,2023/07/31 08:00:00+00
+160632.581953389,1170692.1222477,19,Soldotna,Wastewater Collection,Soldotna Wastewater Collection System,"Soldotna, City of",WWC 3,3800,1300,215,15,2023/07/31 08:00:00+00
+1042115.23995418,1199030.95630824,20,Skagway,Wastewater Collection,Skagway Wastewater Collection System,"Skagway, City of",WWC 1,850,375,219,1,2023/07/31 08:00:00+00
+-604707.768126036,1222202.94569942,21,Toksook Bay,Wastewater Collection,Toksook Bay Wastewater Collection System,"Toksook Bay, City of",WWC 1,500,141,22,1,2023/07/31 08:00:00+00
+252540.636570125,1132499.53625932,22,Seward,Wastewater Collection,Seward Wastewater Collection System,"Seward, City of",WWC 2,2830,750,225,4,2023/07/31 08:00:00+00
+128947.580591873,1051951.17416714,23,Seldovia,Wastewater Collection,Seldovia Wastewater Collection System,"Seldovia, City of",WWC 1,287,204,228,2,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,24,Anchorage,Wastewater Collection,Anchorage Wastewater Collection System,"Anchorage, City of",WWC 4,238186,91610,25,25,2023/07/31 08:00:00+00
+-974185.249990874,910524.195606546,25,Saint Paul,Wastewater Collection,Saint Paul Wastewater Collection System,"Saint Paul, City of",WWC 1,370,190,252,2,2023/07/31 08:00:00+00
+-411466.861134354,612219.93928279,26,Sand Point,Wastewater Collection,Sand Point Wastewater Collection System,"Sand Point, City of",WWC 1,1100,293,256,6,2023/07/31 08:00:00+00
+262653.505677014,1230166.70557979,27,Girdwood,Wastewater Collection,Girdwood Wastewater Collection System,"Anchorage, City of",WWC 2,3055,1370,26,2,2023/07/31 08:00:00+00
+-611354.424221957,1336742.93808656,28,Chevak,Wastewater Collection,Chevak Wastewater Collection System,"Chevak, City of",WWC 1,950,190,264,0,2023/07/31 08:00:00+00
+1076331.88668661,1052302.38252826,29,Hoonah,Wastewater Collection,Hoonah Wastewater Collection System,"Hoonah, City of",WWC 1,760,300,279,5,2023/07/31 08:00:00+00
+1198537.96643152,956568.247197351,30,Kake,Wastewater Collection,Kake Wastewater Collection System,"Kake, City of",WWC 1,500,394,286,2,2023/07/31 08:00:00+00
+1390950.75286723,828555.095617095,31,Ketchikan,Wastewater Collection,Charcoal Point Wastewater Collection System,"Ketchikan, City of",WWC 2,8500,3163,292,7,2023/07/31 08:00:00+00
+150304.99635841,1177925.70109076,32,Kenai,Wastewater Collection,Kenai Wastewater Collection System,"Kenai, City of",WWC 3,5380,1793,295,19,2023/07/31 08:00:00+00
+1128714.87957736,1089944.96465042,33,Juneau,Wastewater Collection,Auke Bay Wastewater Collection System,"Juneau, City of",WWC 1,,187,3,3,2023/07/31 08:00:00+00
+1144736.49530355,1001399.30409643,34,Angoon,Wastewater Collection,Angoon Wastewater Collection System,"Angoon, City of",WWC 1,482,130,30,2,2023/07/31 08:00:00+00
+-529656.810844552,593924.882474006,35,King Cove,Wastewater Collection,King Cove Wastewater Collection System,"King Cove, City of",WWC 1,807,150,300,2,2023/07/31 08:00:00+00
+1325135.64850376,790122.786706786,36,Hydaburg,Wastewater Collection,Hydaburg Wastewater Collection System,"Hydaburg, City of",WWC 1,365,100,309,2,2023/07/31 08:00:00+00
+237525.488448193,1267348.44888482,37,Eagle River,Wastewater Collection,Eagle River Wastewater Collection System,"Anchorage, City of",WWC 3,16294,6267,31,8,2023/07/31 08:00:00+00
+1296632.86162785,821637.582139224,38,Klawock,Wastewater Collection,Klawock Wastewater Collection System,"Klawock, City of",WWC 1,955,334,314,2,2023/07/31 08:00:00+00
+95027.5224326542,866747.9369809,39,Kodiak,Wastewater Collection,Kodiak Wastewater Collection System,"Kodiak, City of",WWC 3,9400,2570,318,20,2023/07/31 08:00:00+00
+-377013.715648148,1906544.48611949,40,Kotzebue,Wastewater Collection,Kotzebue Wastewater Collection System,"Kotzebue, City of",WWC 2,3104,1037,326,12,2023/07/31 08:00:00+00
+66076.0433834472,874380.056336525,41,Port Lions,Wastewater Collection,Port Lions Wastewater Collection System,"Port Lions, City of",WWC 1,211,114,33,1,2023/07/31 08:00:00+00
+-504640.533465355,1383006.48491385,42,Mountain Village,Wastewater Collection,Mountain Village Wastewater Collection System,"Mountain Village, City of",WWC 1,796,180,347,3,2023/07/31 08:00:00+00
+1390950.75286723,828555.095617095,43,Ketchikan,Wastewater Collection,Mountain Point Wastewater Collection System,Ketchikan Gateway Borough,WWC 2,2045,557,349,7,2023/07/31 08:00:00+00
+234989.287041507,1630972.24399515,44,Nenana,Wastewater Collection,Nenana Wastewater Collection System,"Nenana, City of",WWC 1,432,226,358,6,2023/07/31 08:00:00+00
+403401.069467337,1583732.90025987,45,Fort Greely,Wastewater Collection,Fort Greely Wastewater Collection System,"Doyon Utilities, LLC.",WWC 1,770,88,36,1,2023/07/31 08:00:00+00
+-545130.115627811,1662011.78006188,46,Nome,Wastewater Collection,Nome Wastewater Collection System,"Nome, City of",WWC 2,3400,1250,368,9,2023/07/31 08:00:00+00
+-310203.95042872,1891560.16964191,47,Noorvik,Wastewater Collection,Noorvik Wastewater Collection System,"Noorvik, City of",WWC 1,700,105,373,2,2023/07/31 08:00:00+00
+315855.959761862,1659546.0701719,48,North Pole,Wastewater Collection,North Pole Wastewater Collection System,"North Pole, City of",WWC 2,2000,520,377,13,2023/07/31 08:00:00+00
+258015.620438038,1300696.69892349,49,Palmer,Wastewater Collection,Palmer Wastewater Collection System,"Palmer, City of",WWC 2,5800,2100,386,6,2023/07/31 08:00:00+00
+399600.549366245,2270028.55604022,50,Kaktovik,Wastewater Collection,Kaktovik (Barter IS) Wastewater Collection System,North Slope Borough,WWC 1,286,111,39,1,2023/07/31 08:00:00+00
+1261271.08419403,957469.206997323,51,Petersburg,Wastewater Collection,Petersburg Wastewater Collection System,Petersburg Borough,WWC 3,3363,1256,391,16,2023/07/31 08:00:00+00
+-476820.244012596,1374720.1165265,52,Saint Mary's,Wastewater Collection,Saint Mary's Wastewater Collection System,"Saint Mary's, City of",WWC 1,521,170,403,2,2023/07/31 08:00:00+00
+-267001.161616563,1861743.41404769,53,Selawik,Wastewater Collection,Selawik Wastewater Collection System,"Selawik, City of",WWC 1,800,200,408,2,2023/07/31 08:00:00+00
+115434.355028723,2251263.44261842,54,Nuiqsut,Wastewater Collection,Nuiqsut Wastewater Collection System,North Slope Borough,WWC 1,416,145,420,1,2023/07/31 08:00:00+00
+-526202.60112902,2093518.87211088,55,Point Hope,Wastewater Collection,Point Hope Wastewater Collection System,North Slope Borough,WWC 1,764,233,426,1,2023/07/31 08:00:00+00
+94894.1751459759,2021732.21131396,56,Anaktuvuk Pass,Wastewater Collection,Anaktuvuk Pass Wastewater Collection System,North Slope Borough,WWC 1,329,105,429,1,2023/07/31 08:00:00+00
+1128714.87957736,1089944.96465042,57,Juneau,Wastewater Collection,Juneau-Douglas Wastewater Collection System,"Juneau, City of",WWC 2,,2145,447,12,2023/07/31 08:00:00+00
+1128714.87957736,1089944.96465042,58,Juneau,Wastewater Collection,Mendenhall Wastewater Collection System,"Juneau, City of",WWC 3,,4922,448,30,2023/07/31 08:00:00+00
+-542392.68206103,1456437.72182411,59,Alakanuk,Wastewater Collection,Alakanuk Wastewater Collection System,"Alakanuk, City of",WWC 1,685,145,45,0,2023/07/31 08:00:00+00
+1394834.30839002,827141.152786474,60,Saxman,Wastewater Collection,Saxman Wastewater Collection System,"Saxman, City of",WWC 1,422,138,452,0,2023/07/31 08:00:00+00
+-174279.43217255,974059.91252268,61,Naknek,Wastewater Collection,King Salmon Wastewater Collection System,Bristol Bay Borough,WWC 1,465,125,461,10,2023/07/31 08:00:00+00
+-174279.43217255,974059.91252268,62,Naknek,Wastewater Collection,Naknek Wastewater Collection System,Bristol Bay Borough,WWC 1,543,140,463,5,2023/07/31 08:00:00+00
+-604790.129936927,1371265.24459968,63,Scammon Bay,Wastewater Collection,Scammon Bay Wastewater Collection System,"Scammon Bay, City of",WWC 1,533,70,468,1,2023/07/31 08:00:00+00
+-384157.774716963,1983045.85661991,64,Noatak,Wastewater Collection,Noatak Wastewater Collection System,"Noatak, Native Community of",WWC 1,500,106,471,3,2023/07/31 08:00:00+00
+250384.104323413,1539173.82748982,65,Denali National Park,Wastewater Collection,HAP McKinley Chalets Resort Wastewater Collection System,HAP McKinley Chalets Resorts,WWC 1,1000,25,481,12,2023/07/31 08:00:00+00
+389073.564573699,1871099.72992694,66,Fort Yukon,Wastewater Collection,Fort Yukon Wastewater Collection System,"Fort Yukon, City of",WWC 1,600,212,484,6,2023/07/31 08:00:00+00
+-480768.456775202,1486120.89410419,67,Kotlik,Wastewater Collection,Kotlik Wastewater Collection System,"Kotlik, City of",WWC 1,690,130,488,1,2023/07/31 08:00:00+00
+-805515.136213651,1625678.78277187,68,Savoonga,Wastewater Collection,Savoonga Wastewater Collection System,"Savoonga, City of",WWC 1,671,162,492,0,2023/07/31 08:00:00+00
+1296627.69138198,875531.322046869,69,Coffman Cove,Wastewater Collection,Coffman Cove Wastewater Collection System,"Coffman Cove, City of",WWC 1,199,141,496,3,2023/07/31 08:00:00+00
+-637703.69598663,1341749.41966851,70,Hooper Bay,Wastewater Collection,Hooper Bay Wastewater Collection System,"Hooper Bay, City of",WWC 1,1149,89,502,0,2023/07/31 08:00:00+00
+-292239.010092156,1301035.34428872,71,Aniak,Wastewater Collection,Aniak Wastewater Collection System,"Aniak, City of",WWC 1,546,207,507,6,2023/07/31 08:00:00+00
+-441451.852918794,1110782.82189395,72,Quinhagak,Wastewater Collection,Quinhagak Wastewater Collection System,"Quinhagak, City of",WWC 1,669,108,512,1,2023/07/31 08:00:00+00
+-422939.120937902,1348502.57937497,73,Marshall,Wastewater Collection,Marshall Wastewater Collection System,"Marshall, City of",WWC 1,308,108,513,0,2023/07/31 08:00:00+00
+-402442.765696949,1225580.36430067,74,Kwethluk,Wastewater Collection,Kwethluk Wastewater Collection System,"Kwethluk, City of",WWC 1,760,192,528,0,2023/07/31 08:00:00+00
+-281947.629636162,1904401.94665282,75,Kiana,Wastewater Collection,Kiana Wastewater Collection System,Kiana Water System,WWC 1,380,103,542,1,2023/07/31 08:00:00+00
+297451.122482249,1667250.52584127,76,Fairbanks,Wastewater Collection,GHU Wastewater Collection System,Utility Services of Alaska,WWC 4,31535,6276,6,57,2023/07/31 08:00:00+00
+-101341.337283207,2367854.79997794,77,Utqiagvik,Wastewater Collection,Barrow Wastewater Collection System,"Barrow, BUECI",WWC 2,4500,1488,60,8,2023/07/31 08:00:00+00
+-420708.278583235,1225426.14136511,78,Bethel,Wastewater Collection,Bethel Wastewater Collection System,"Bethel, City of",WWC 1,1820,475,64,5,2023/07/31 08:00:00+00
+449342.259478468,1201051.13508385,79,Cordova,Wastewater Collection,Cordova Wastewater Collection System,"Cordova, City of",WWC 2,1699,850,69,6,2023/07/31 08:00:00+00
+1296030.65760968,812250.477347349,80,Craig,Wastewater Collection,Craig Wastewater Collection System,"Craig, City of",WWC 1,1420,489,73,8,2023/07/31 08:00:00+00
+-255124.356889429,1013454.33727143,81,Dillingham,Wastewater Collection,Dillingham Wastewater Collection System,"Dillingham, City of",WWC 1,2250,235,78,7,2023/07/31 08:00:00+00
+-463440.278725839,1359992.70645285,82,Pilot Station,Wastewater Collection,Pilot Station Wastewater Collection System,"Pilot Station, City of",WWC 1,560,126,81,1,2023/07/31 08:00:00+00
+-533862.500488994,1465251.0985118,83,Emmonak,Wastewater Collection,Emmonak Wastewater Collection System,"Emmonak, City of",WWC 1,811,206,84,0,2023/07/31 08:00:00+00
+297451.122482249,1667250.52584127,84,Fairbanks,Wastewater Collection,CUC Wastewater Collection System,Utility Services of Alaska,WWC 3,10000,2031,9,29,2023/07/31 08:00:00+00
+-861997.814284141,1650244.02734943,85,Gambell,Wastewater Collection,Gambell Wastewater Collection System,"Gambell, City of",WWC 1,750,134,96,3,2023/07/31 08:00:00+00

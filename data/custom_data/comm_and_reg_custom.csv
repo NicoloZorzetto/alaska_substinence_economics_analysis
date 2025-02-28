@@ -1,0 +1,472 @@
+,CommunityName,IncorporationType,BoroughCensusArea,NativeRegionalHealthCarePro,SchoolDistrict,ClimateRegion,EnergyRegion,EconomicRegion,sqMiLand,sqMiWater
+0,Lake and Peninsula Borough,Non-Unified Home Rule Borough,Lake and Peninsula Borough,Yukon-Kuskokwim Health Corporation,Lake and Peninsula Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,23782.0,7125.0
+1,Denali Borough,Non-Unified Home Rule Borough,Denali Borough,"Tanana Chiefs Conference, Department of Health Services",Denali Borough School District,Continental,Railbelt,Interior Economic Region,12749.7,24.9
+2,North Slope Borough,Non-Unified Home Rule Borough,North Slope Borough,"Arctic Slope Native Association, Limited",North Slope Borough School District,Arctic,,Northern Economic Region,88817.1,5945.5
+3,Haines Borough,Non-Unified Home Rule Borough,Haines Borough,Southeast Alaska Regional Health Consortium,Haines Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,2343.7,382.1
+4,Voznesenka Village,Locality,Kenai Peninsula Borough,"Council of Athabascan Tribal Governments, Incorporated",Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+5,Northwest Arctic Borough,Non-Unified Home Rule Borough,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,,Northern Economic Region,35898.3,4863.7
+6,Petersburg Borough,Non-Unified Home Rule Borough,Petersburg Borough,Southeast Alaska Regional Health Consortium,Petersburg Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,2921.0,908.0
+7,Yakutat,Non-Unified Home Rule Borough,City and Borough of Yakutat,Southeast Alaska Regional Health Consortium,Yakutat School District,Southeast Maritime,Southeast,Southeast Economic Region,7650.5,1808.8
+8,Anchorage,Unified Home Rule Borough,Municipality of Anchorage,Alaska Native Tribal Health Consortium - ANTHC,Anchorage School District,Gulf Coast Transitional,Railbelt,Anchorage/Mat-Su Economic Region,1697.2,263.9
+9,Juneau,Unified Home Rule Borough,City and Borough of Juneau,Southeast Alaska Regional Health Consortium,Juneau Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,2716.7,538.3
+10,Sitka,Unified Home Rule Borough,City and Borough of Sitka,Southeast Alaska Regional Health Consortium,Sitka School District,Southeast Maritime,Southeast,Southeast Economic Region,2874.0,1937.5
+11,Wrangell,Unified Home Rule Borough,City and Borough of Wrangell,Southeast Alaska Regional Health Consortium,Wrangell Public School District,Southeast Maritime,Southeast,Southeast Economic Region,2582.0,883.0
+12,Big Salt,Unincorporated,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Klawock City School District,Southeast Maritime,Southeast,Southeast Economic Region,0.0,0.0
+13,Razdolna Village,Locality,Kenai Peninsula Borough,"Tanana Chiefs Conference, Department of Health Services",Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+14,Ptarmigan Heights,Locality,Fairbanks North Star Borough,Southeast Alaska Regional Health Consortium,Fairbanks North Star Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+15,Ester Dome,Locality,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+16,Haystack,Locality,Fairbanks North Star Borough,,Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+17,Kachemak Selo,Locality,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+18,Klehini Valley,Locality,Haines Borough,Southeast Alaska Regional Health Consortium,Haines Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+19,Palmer,Home Rule City,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,3.8,0.0
+20,Seward,Home Rule City,Kenai Peninsula Borough,Chugachmiut,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,14.4,7.1
+21,Soldotna,Home Rule City,Kenai Peninsula Borough,Peninsula Community Health Services,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,6.9,0.5
+22,Valdez,Home Rule City,Chugach Census Area,Chugachmiut,Valdez City School District,Gulf Coast Maritime,Copper River/Chugach,Gulf Coast Economic Region,222.0,55.1
+23,Metlakatla,Indian reservation organized under federal law,Prince of Wales-Hyder Census Area,Metlakatla Indian Community,Annette Island School District,Southeast Maritime,Southeast,Southeast Economic Region,0.0,0.0
+24,Chatanika,Locality,Fairbanks North Star Borough,Southcentral Foundation,Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+25,Chena Hot Springs,Locality,Fairbanks North Star Borough,Yukon-Kuskokwim Health Corporation,Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+26,Dyea,Locality,Municipality of Skagway,"Tanana Chiefs Conference, Department of Health Services",,Southeast Maritime,Southeast,Southeast Economic Region,,
+27,Nikolaevsk,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,0.0,0.0
+28,Ninilchik,CDP,Kenai Peninsula Borough,Ninilchik Village,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+29,Noatak,CDP,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,0.0,0.0
+30,Pedro Bay,CDP,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,0.0,0.0
+31,Perryville,CDP,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Southwest Maritime,Bristol Bay,Southwest Economic Region,,
+32,Petersville,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+33,Pleasant Valley,CDP,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+34,Point Lay,CDP,North Slope Borough,"Arctic Slope Native Association, Limited",North Slope Borough School District,Arctic,North Slope,Northern Economic Region,0.0,0.0
+35,Point MacKenzie,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Gulf Coast Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+36,Port Alsworth,CDP,Lake and Peninsula Borough,,Lake and Peninsula Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,,
+37,Port Graham,CDP,Kenai Peninsula Borough,Chugachmiut,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+38,Primrose,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+39,Ridgeway,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+40,Salamatof,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+41,Salcha,CDP,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+42,Seldovia Village,CDP,Kenai Peninsula Borough,Seldovia Village Tribe,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+43,South Naknek,CDP,Bristol Bay Borough,Bristol Bay Area Health Corporation,Bristol Bay Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,0.0,0.0
+44,Sterling,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+45,Susitna,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,0.0,0.0
+46,Sutton-Alpine,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,0.0,0.0
+47,Talkeetna,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+48,Trapper Creek,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+49,Two Rivers,CDP,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+50,Tyonek,CDP,Kenai Peninsula Borough,Native Village of Tyonek,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+51,Willow,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,0.0,0.0
+52,Cordova,Home Rule City,Chugach Census Area,Chugachmiut,Cordova City School District,Gulf Coast Maritime,Copper River/Chugach,Gulf Coast Economic Region,61.4,14.3
+53,Fairbanks,Home Rule City,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,32.4,0.8
+54,Kenai,Home Rule City,Kenai Peninsula Borough,Kenaitze Indian Tribe,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,29.9,5.6
+55,Ketchikan,Home Rule City,Ketchikan Gateway Borough,Southeast Alaska Regional Health Consortium,Ketchikan Gateway Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,3.4,0.8
+56,Kodiak,Home Rule City,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,3.5,1.4
+57,Nenana,Home Rule City,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Nenana City School District,Continental,Railbelt,Interior Economic Region,6.0,0.1
+58,North Pole,Home Rule City,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,4.2,0.1
+59,Shaktoolik,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,1.1,
+60,Shishmaref,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Southeast Economic Region,2.8,4.5
+61,Shungnak,2nd Class City,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,8.4,1.3
+62,Stebbins,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,35.2,1.7
+63,Teller,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Southeast Economic Region,1.9,0.2
+64,Tenakee Springs,2nd Class City,Hoonah-Angoon Census Area,Southeast Alaska Regional Health Consortium,Chatham School District,Southeast Maritime,Southeast,Southeast Economic Region,13.8,5.3
+65,Thorne Bay,2nd Class City,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Southeast Island School District,Southeast Maritime,Southeast,Southeast Economic Region,25.5,4.8
+66,Togiak,2nd Class City,Dillingham Census Area,Bristol Bay Area Health Corporation,Southwest Region School District,Western Transitional,Bristol Bay,Southwest Economic Region,45.2,183.3
+67,Toksook Bay,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,33.1,40.9
+68,Unalakleet,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,2.9,2.3
+69,Upper Kalskag,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Kuspuk School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,3.8,0.4
+70,Wainwright,2nd Class City,North Slope Borough,"Arctic Slope Native Association, Limited",North Slope Borough School District,Arctic,North Slope,Northern Economic Region,17.6,24.9
+71,Wales,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Southeast Economic Region,2.8,0.0
+72,Whale Pass,2nd Class City,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Southeast Island School District,Southeast Maritime,Southeast,Southeast Economic Region,7.86,17.98
+73,White Mountain,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,1.8,0.2
+74,Whittier,2nd Class City,Chugach Census Area,Chugachmiut,Chugach School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,12.5,7.2
+75,Anchor Point,CDP,Kenai Peninsula Borough,Seldovia Village Tribe,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+76,Bear Creek,CDP,Kenai Peninsula Borough,Chugachmiut,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+77,Big Lake,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+78,Buffalo Soapstone,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+79,Butte,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+80,Cantwell,CDP,Denali Borough,Copper River Native Association,Denali Borough School District,Continental,Railbelt,Interior Economic Region,0.0,0.0
+81,Chase,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+82,Chickaloon,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,79.4,0.8
+83,Chignik Lagoon,CDP,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Southwest Maritime,Bristol Bay,Southwest Economic Region,,
+84,Chignik Lake,CDP,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Southwest Maritime,Bristol Bay,Southwest Economic Region,,
+85,Clam Gulch,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+86,Cohoe,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+87,Cooper Landing,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+88,Crown Point,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+89,Diamond Ridge,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+90,Ester,CDP,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,0.0,0.0
+91,Fishhook,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+92,Fox,CDP,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+93,Fritz Creek,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+94,Funny River,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+95,Gateway,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+96,Glacier View,CDP,Matanuska-Susitna Borough,Copper River Native Association,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+97,Goldstream,CDP,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+98,Happy Valley,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+99,Healy,CDP,Denali Borough,Copper River Native Association,Denali Borough School District,Continental,Railbelt,Interior Economic Region,,
+100,Hope,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+101,Igiugig,CDP,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,0.0,0.0
+102,Iliamna,CDP,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,,
+103,Kalifornsky,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+104,Karluk,CDP,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+105,Kasilof,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+106,King Salmon,CDP,Bristol Bay Borough,Bristol Bay Area Health Corporation,Bristol Bay Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,,
+107,Lowell Point,CDP,Kenai Peninsula Borough,Chugachmiut,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+108,Meadow Lakes,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,0.0,0.0
+109,Moose Creek,CDP,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+110,Moose Pass,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+111,Naknek,CDP,Bristol Bay Borough,Bristol Bay Area Health Corporation,Bristol Bay Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,,
+112,Nanwalek,CDP,Kenai Peninsula Borough,Chugachmiut,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+113,Nelson Lagoon,CDP,Aleutians East Borough,"Eastern Aleutian Tribes, Incorporated",Aleutians East Borough School District,Southwest Maritime,Aleutians,Southwest Economic Region,,
+114,Nikiski,CDP,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+115,Knik River,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,0.0,0.0
+116,Knik-Fairview,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+117,Kokhanok,CDP,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,,
+118,Lake Louise,CDP,Matanuska-Susitna Borough,Copper River Native Association,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+119,Lazy Mountain,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+120,Levelock,CDP,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,,
+121,Denali Park,CDP,Denali Borough,Copper River Native Association,Denali Borough School District,Continental,Railbelt,Interior Economic Region,0.0,0.0
+122,Edna Bay,2nd Class City,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Southeast Island School District,Southeast Maritime,Southeast,Southeast Economic Region,21.91,4.06
+123,Eek,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,0.9,0.1
+124,Egegik,2nd Class City,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Southwest Maritime,Bristol Bay,Southwest Economic Region,32.8,101.2
+125,Ekwok,2nd Class City,Dillingham Census Area,Bristol Bay Area Health Corporation,Southwest Region School District,Western Transitional,Bristol Bay,Southwest Economic Region,16.0,1.4
+126,Elim,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,2.4,
+127,Emmonak,2nd Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Lower Yukon School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,7.5,1.1
+128,Chevak,2nd Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Kashunamiut School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,1.1,0.1
+129,Chuathbaluk,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Kuspuk School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,3.5,1.8
+130,Clark's Point,2nd Class City,Dillingham Census Area,Bristol Bay Area Health Corporation,Southwest Region School District,Western Transitional,Bristol Bay,Southwest Economic Region,3.1,0.9
+131,Coffman Cove,2nd Class City,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Southeast Island School District,Southeast Maritime,Southeast,Southeast Economic Region,10.4,4.5
+132,Cold Bay,2nd Class City,Aleutians East Borough,"Eastern Aleutian Tribes, Incorporated",Aleutians East Borough School District,Southwest Maritime,Aleutians,Southwest Economic Region,54.4,16.6
+133,Deering,2nd Class City,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,5.1,0.1
+134,Delta Junction,2nd Class City,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Delta-Greely School District,Continental,Railbelt,Interior Economic Region,17.3,0.0
+135,Diomede,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Southeast Economic Region,2.8,
+136,Chignik,2nd Class City,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Southwest Maritime,Bristol Bay,Southwest Economic Region,11.7,4.2
+137,Buckland,2nd Class City,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,1.2,0.2
+138,Chefornak,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,5.7,0.8
+139,Atqasuk,2nd Class City,North Slope Borough,"Arctic Slope Native Association, Limited",North Slope Borough School District,Arctic,North Slope,Northern Economic Region,38.9,3.5
+140,Bethel,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,43.8,5.1
+141,Bettles,2nd Class City,Yukon-Koyukuk Census Area,,Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,1.6,
+142,Brevig Mission,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,2.6,0.1
+143,Allakaket,2nd Class City,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,3.6,0.7
+144,Ambler,2nd Class City,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,9.5,1.3
+145,Anaktuvuk Pass,2nd Class City,North Slope Borough,"Arctic Slope Native Association, Limited",North Slope Borough School District,Arctic,North Slope,Northern Economic Region,4.8,0.1
+146,Anderson,2nd Class City,Denali Borough,"Tanana Chiefs Conference, Department of Health Services",Denali Borough School District,Continental,Railbelt,Interior Economic Region,46.7,0.5
+147,Angoon,2nd Class City,Hoonah-Angoon Census Area,Southeast Alaska Regional Health Consortium,Chatham School District,Southeast Maritime,Southeast,Southeast Economic Region,22.5,16.1
+148,Aniak,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Kuspuk School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,6.5,2.3
+149,Anvik,2nd Class City,Yukon-Koyukuk Census Area,Yukon-Kuskokwim Health Corporation,Iditarod Area School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,9.5,2.4
+150,Atka,2nd Class City,Aleutians West Census Area,"Aleutian Pribilof Islands Association, Incorporated",Aleutian Region School District,Southwest Maritime,Aleutians,Southwest Economic Region,8.7,27.4
+151,Skagway,1st Class Borough,Municipality of Skagway,Southeast Alaska Regional Health Consortium,Skagway School District,Southeast Maritime,Southeast,Southeast Economic Region,452.4,11.9
+152,Craig,1st Class City,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Craig City School District,Southeast Maritime,Southeast,Southeast Economic Region,6.7,2.7
+153,Dillingham,1st Class City,Dillingham Census Area,Bristol Bay Area Health Corporation,Dillingham City School District,Western Transitional,Bristol Bay,Southwest Economic Region,36.84,397.94
+154,Galena,1st Class City,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Galena City School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,17.9,6.1
+155,Homer,1st Class City,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,10.6,14.9
+156,Hoonah,1st Class City,Hoonah-Angoon Census Area,Southeast Alaska Regional Health Consortium,Hoonah City School District,Southeast Maritime,Southeast,Southeast Economic Region,6.6,2.1
+157,Hydaburg,1st Class City,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Hydaburg City School District,Southeast Maritime,Southeast,Southeast Economic Region,0.3,
+158,Kake,1st Class City,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Kake City School District,Southeast Maritime,Southeast,Southeast Economic Region,8.2,6.0
+159,King Cove,1st Class City,Aleutians East Borough,"Eastern Aleutian Tribes, Incorporated",Aleutians East Borough School District,Southwest Maritime,Aleutians,Southwest Economic Region,25.3,4.5
+160,Klawock,1st Class City,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Klawock City School District,Southeast Maritime,Southeast,Southeast Economic Region,0.6,0.3
+161,Nome,1st Class City,Nome Census Area,Norton Sound Health Corporation,Nome Public Schools,Western Transitional,Bering Straits,Southeast Economic Region,12.5,9.1
+162,Pelican,1st Class City,Hoonah-Angoon Census Area,Southeast Alaska Regional Health Consortium,Pelican City School District,Southeast Maritime,Southeast,Southeast Economic Region,0.6,0.1
+163,Saint Mary's,1st Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Saint Mary's School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,44.0,6.3
+164,Sand Point,1st Class City,Aleutians East Borough,"Eastern Aleutian Tribes, Incorporated",Aleutians East Borough School District,Southwest Maritime,Aleutians,Southwest Economic Region,7.8,21.1
+165,Seldovia,1st Class City,Kenai Peninsula Borough,Seldovia Village Tribe,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,0.4,0.2
+166,Tanana,1st Class City,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,11.6,4.0
+167,Unalaska,1st Class City,Aleutians West Census Area,"Aleutian Pribilof Islands Association, Incorporated",Unalaska City School District,Southwest Maritime,Aleutians,Southwest Economic Region,111.0,101.3
+168,Utqiagvik,1st Class City,North Slope Borough,"Arctic Slope Native Association, Limited",North Slope Borough School District,Arctic,North Slope,Northern Economic Region,18.4,2.9
+169,Wasilla,1st Class City,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,11.7,0.7
+170,Aleutians East Borough,2nd Class Borough,Aleutians East Borough,"Eastern Aleutian Tribes, Incorporated",Aleutians East Borough School District,Southwest Maritime,Aleutians,Southwest Economic Region,6988.1,8023.5
+171,Bristol Bay Borough,2nd Class Borough,Bristol Bay Borough,Bristol Bay Area Health Corporation,Bristol Bay Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,504.9,382.8
+172,Fairbanks North Star Borough,2nd Class Borough,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,7361.0,105.14
+173,Kenai Peninsula Borough,2nd Class Borough,Kenai Peninsula Borough,Kenaitze Indian Tribe,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,16013.3,8741.3
+174,Ketchikan Gateway Borough,2nd Class Borough,Ketchikan Gateway Borough,Southeast Alaska Regional Health Consortium,Ketchikan Gateway Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,4898.9,1981.3
+175,Kodiak Island Borough,2nd Class Borough,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,6559.8,5463.8
+176,Matanuska-Susitna Borough,2nd Class Borough,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,24681.5,578.3
+177,Adak,2nd Class City,Aleutians West Census Area,"Eastern Aleutian Tribes, Incorporated",Aleutian Region School District,Southwest Maritime,Aleutians,Southwest Economic Region,122.4,4.9
+178,Akhiok,2nd Class City,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,7.9,2.5
+179,Akiak,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Yupiit School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,2.0,1.1
+180,Akutan,2nd Class City,Aleutians East Borough,"Eastern Aleutian Tribes, Incorporated",Aleutians East Borough School District,Southwest Maritime,Aleutians,Southwest Economic Region,65.58,82.33
+181,Alakanuk,2nd Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Lower Yukon School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,32.4,8.7
+182,Aleknagik,2nd Class City,Dillingham Census Area,Bristol Bay Area Health Corporation,Southwest Region School District,Western Transitional,Bristol Bay,Southwest Economic Region,25.87,17.39
+183,False Pass,2nd Class City,Aleutians East Borough,"Eastern Aleutian Tribes, Incorporated",Aleutians East Borough School District,Southwest Maritime,Aleutians,Southwest Economic Region,26.8,41.4
+184,Fort Yukon,2nd Class City,Yukon-Koyukuk Census Area,"Council of Athabascan Tribal Governments, Incorporated",Yukon Flats School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,7.0,0.4
+185,Gambell,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,10.9,19.5
+186,Golovin,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,3.7,
+187,Goodnews Bay,2nd Class City,Bethel Census Area,Bristol Bay Area Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,3.2,
+188,Grayling,2nd Class City,Yukon-Koyukuk Census Area,Yukon-Kuskokwim Health Corporation,Iditarod Area School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,10.9,0.1
+189,Gustavus,2nd Class City,Hoonah-Angoon Census Area,Southeast Alaska Regional Health Consortium,Chatham School District,Southeast Maritime,Southeast,Southeast Economic Region,33.2,22.0
+190,Holy Cross,2nd Class City,Yukon-Koyukuk Census Area,Yukon-Kuskokwim Health Corporation,Iditarod Area School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,31.3,6.2
+191,Hooper Bay,2nd Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Lower Yukon School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,8.7,0.1
+192,Houston,2nd Class City,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,22.4,1.2
+193,Hughes,2nd Class City,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,3.1,
+194,Huslia,2nd Class City,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,16.4,0.7
+195,Kachemak,2nd Class City,Kenai Peninsula Borough,,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,1.61,
+196,Kaktovik,2nd Class City,North Slope Borough,"Arctic Slope Native Association, Limited",North Slope Borough School District,Arctic,North Slope,Northern Economic Region,0.8,0.2
+197,Kaltag,2nd Class City,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,23.3,4.1
+198,Kasaan,2nd Class City,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Southeast Island School District,Southeast Maritime,Southeast,Southeast Economic Region,5.3,0.9
+199,Kiana,2nd Class City,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,0.2,
+200,Kivalina,2nd Class City,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,1.9,2.0
+201,Kobuk,2nd Class City,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,16.1,0.7
+202,Kotlik,2nd Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Lower Yukon School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,3.8,0.8
+203,Kotzebue,2nd Class City,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,27.0,1.7
+204,Koyuk,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,4.7,
+205,Koyukuk,2nd Class City,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,6.2,0.1
+206,Kupreanof,2nd Class City,Petersburg Borough,Southeast Alaska Regional Health Consortium,Petersburg Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,4.0,2.1
+207,Kwethluk,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,10.0,1.7
+208,Larsen Bay,2nd Class City,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,5.4,2.2
+209,Lower Kalskag,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Kuspuk School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,1.3,0.4
+210,Manokotak,2nd Class City,Dillingham Census Area,Bristol Bay Area Health Corporation,Southwest Region School District,Western Transitional,Bristol Bay,Southwest Economic Region,36.4,0.9
+211,Marshall,2nd Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Lower Yukon School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,4.7,0.0
+212,McGrath,2nd Class City,Yukon-Koyukuk Census Area,Southcentral Foundation,Iditarod Area School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,48.9,5.7
+213,Mekoryuk,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,7.4,0.1
+214,Mountain Village,2nd Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Lower Yukon School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,4.3,
+215,Napakiak,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,4.7,0.3
+216,Napaskiak,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,3.5,0.4
+217,New Stuyahok,2nd Class City,Dillingham Census Area,Bristol Bay Area Health Corporation,Southwest Region School District,Western Transitional,Bristol Bay,Southwest Economic Region,32.6,2.0
+218,Newhalen,2nd Class City,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,6.1,2.3
+219,Nightmute,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,97.0,4.6
+220,Nikolai,2nd Class City,Yukon-Koyukuk Census Area,Southcentral Foundation,Iditarod Area School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,4.5,0.3
+221,Nondalton,2nd Class City,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,8.4,0.4
+222,Noorvik,2nd Class City,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,1.0,0.4
+223,Nuiqsut,2nd Class City,North Slope Borough,"Arctic Slope Native Association, Limited",North Slope Borough School District,Arctic,North Slope,Northern Economic Region,9.2,
+224,Nulato,2nd Class City,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,42.7,2.0
+225,Nunam Iqua,2nd Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Lower Yukon School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,13.2,5.3
+226,Nunapitchuk,2nd Class City,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,7.9,0.7
+227,Old Harbor,2nd Class City,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,21.0,6.2
+228,Ouzinkie,2nd Class City,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,6.0,1.7
+229,Pilot Point,2nd Class City,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Southwest Maritime,Bristol Bay,Southwest Economic Region,25.4,115.1
+230,Pilot Station,2nd Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Lower Yukon School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,1.7,0.6
+231,Platinum,2nd Class City,Bethel Census Area,Bristol Bay Area Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,44.6,0.1
+232,Point Hope,2nd Class City,North Slope Borough,"Arctic Slope Native Association, Limited",North Slope Borough School District,Arctic,North Slope,Northern Economic Region,6.3,0.1
+233,Port Alexander,2nd Class City,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Southeast Island School District,Southeast Maritime,Southeast,Southeast Economic Region,3.8,11.3
+234,Port Heiden,2nd Class City,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Southwest Maritime,Bristol Bay,Southwest Economic Region,50.7,0.7
+235,Port Lions,2nd Class City,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,6.3,3.7
+236,Quinhagak,2nd Class City,Bethel Census Area,Native Village of Kwinhagak,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,4.7,0.6
+237,Ruby,2nd Class City,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,7.6,
+238,Russian Mission,2nd Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Lower Yukon School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,5.7,0.5
+239,Saint George,2nd Class City,Aleutians West Census Area,"Aleutian Pribilof Islands Association, Incorporated",Pribilof School District,Southwest Maritime,Aleutians,Southwest Economic Region,34.8,147.6
+240,Saint Michael,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,21.8,6.3
+241,Saint Paul,2nd Class City,Aleutians West Census Area,"Aleutian Pribilof Islands Association, Incorporated",Pribilof School District,Southwest Maritime,Aleutians,Southwest Economic Region,40.3,255.2
+242,Savoonga,2nd Class City,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,6.1,0.0
+243,Saxman,2nd Class City,Ketchikan Gateway Borough,Southeast Alaska Regional Health Consortium,Ketchikan Gateway Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,1.0,0.0
+244,Scammon Bay,2nd Class City,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Lower Yukon School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,0.6,
+245,Selawik,2nd Class City,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,2.5,0.9
+246,Shageluk,2nd Class City,Yukon-Koyukuk Census Area,Yukon-Kuskokwim Health Corporation,Iditarod Area School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,10.6,1.4
+247,Indian,Locality,Municipality of Anchorage,Alaska Native Tribal Health Consortium - ANTHC,Anchorage School District,Gulf Coast Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+248,Bird Creek,Locality,Municipality of Anchorage,Alaska Native Tribal Health Consortium - ANTHC,Anchorage School District,Gulf Coast Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+249,Northway Junction,Unincorporated,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+250,Port Clarence,Unincorporated CDP,Nome Census Area,,,Western Transitional,Bering Straits,Northern Economic Region,0.0,0.0
+251,Portage Creek,Unincorporated CDP,Dillingham Census Area,Southeast Alaska Regional Health Consortium,Southwest Region School District,Western Transitional,Bristol Bay,Southwest Economic Region,,
+252,Tonsina,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Gulf Coast Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+253,Whitestone Logging Camp,Unincorporated CDP,Hoonah-Angoon Census Area,"Tanana Chiefs Conference, Department of Health Services",,Southeast Maritime,Southeast,Southeast Economic Region,,
+254,Willow Creek,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Gulf Coast Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+255,Wiseman,Unincorporated CDP,Yukon-Koyukuk Census Area,Southcentral Foundation,Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+256,Attu Station,Unincorporated CDP,Aleutians West Census Area,"Aleutian Pribilof Islands Association, Incorporated",,Southwest Maritime,Aleutians,Southwest Economic Region,,
+257,Big Delta,Unincorporated CDP,Southeast Fairbanks Census Area,,Delta-Greely School District,Continental,Railbelt,Interior Economic Region,,
+258,Chicken,Unincorporated CDP,Southeast Fairbanks Census Area,Southcentral Foundation,Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+259,Chisana,Unincorporated CDP,Copper River Census Area,Copper River Native Association,,Gulf Coast Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+260,Coldfoot,Unincorporated CDP,Yukon-Koyukuk Census Area,"Eastern Aleutian Tribes, Incorporated",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,37.0,
+261,Dot Lake Village,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+262,Evansville,Unincorporated CDP,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+263,Flat,Unincorporated CDP,Yukon-Koyukuk Census Area,Southcentral Foundation,,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+264,Fort Greely,Unincorporated CDP,Southeast Fairbanks Census Area,Southcentral Foundation,Delta-Greely School District,Continental,Railbelt,Interior Economic Region,,
+265,Game Creek,Unincorporated CDP,Hoonah-Angoon Census Area,Southeast Alaska Regional Health Consortium,Hoonah City School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+266,Lake Minchumina,Unincorporated CDP,Yukon-Koyukuk Census Area,,Iditarod Area School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+267,Livengood,Unincorporated CDP,Yukon-Koyukuk Census Area,,Yukon Flats School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+268,Mertarvik,Unincorporated CDP,Bethel Census Area,Mt. Sanford Tribal Consortium,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+269,Nabesna,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Gulf Coast Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+270,New Allakaket,Unincorporated,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+271,Northway,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+272,Kanatak,Locality,Bristol Bay Borough,"Tanana Chiefs Conference, Department of Health Services",,Western Transitional,Kodiak,Gulf Coast Economic Region,,
+273,Knik,Locality,Matanuska-Susitna Borough,Southeast Alaska Regional Health Consortium,,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+274,Lignite,Locality,Denali Borough,Bristol Bay Area Health Corporation,,Continental,Railbelt,Interior Economic Region,,
+275,Litnik,Locality,Kodiak Island Borough,Kodiak Area Native Association,,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+276,Meyers Chuck,Locality,City and Borough of Wrangell,Southeast Alaska Regional Health Consortium,,Southeast Maritime,Southeast,Southeast Economic Region,0.0,0.0
+277,Millers Landing,Locality,Kenai Peninsula Borough,Southeast Alaska Regional Health Consortium,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+278,Mountain Point,Locality,Ketchikan Gateway Borough,Southeast Alaska Regional Health Consortium,Ketchikan Gateway Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+279,Oliktok,Locality,North Slope Borough,"Arctic Slope Native Association, Limited",,Arctic,North Slope,Northern Economic Region,,
+280,Pauloff Harbor,Locality,Aleutians East Borough,"Aleutian Pribilof Islands Association, Incorporated",,Southwest Maritime,Aleutians,Southwest Economic Region,,
+281,Pennock Island,Locality,Ketchikan Gateway Borough,Southeast Alaska Regional Health Consortium,Ketchikan Gateway Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+282,Peters Creek,Locality,Municipality of Anchorage,,Anchorage School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,0.0,0.0
+283,Petersburg,CDP,Petersburg Borough,Southeast Alaska Regional Health Consortium,Petersburg Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,43.9,2.2
+284,Pile Bay,Locality,Lake and Peninsula Borough,Southcentral Foundation,,Southwest Maritime,Bristol Bay,Southwest Economic Region,,
+285,Port Moller,Locality,Aleutians East Borough,"Aleutian Pribilof Islands Association, Incorporated",,Southwest Maritime,Aleutians,Southwest Economic Region,0.0,0.0
+286,Port William,Locality,Kodiak Island Borough,Kodiak Area Native Association,,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+287,Portage,Locality,Municipality of Anchorage,Southeast Alaska Regional Health Consortium,Anchorage School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+288,Portlock,Locality,Kenai Peninsula Borough,Chugachmiut,,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+289,Rabbit Creek,Locality,Municipality of Anchorage,Native Village of Kwinhagak,Anchorage School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+290,Sanak,Locality,Aleutians East Borough,"Aleutian Pribilof Islands Association, Incorporated",,Southwest Maritime,Aleutians,Southwest Economic Region,,
+291,Shuyak Island,Locality,Kodiak Island Borough,Kodiak Area Native Association,,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+292,Squaw Harbor,Locality,Aleutians East Borough,Bristol Bay Area Health Corporation,,Southwest Maritime,Aleutians,Southwest Economic Region,,
+293,Suntrana,Locality,Denali Borough,Yukon-Kuskokwim Health Corporation,,Continental,Railbelt,Interior Economic Region,,
+294,Thane,Locality,City and Borough of Juneau,Southeast Alaska Regional Health Consortium,Juneau Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+295,Thoms Place,Locality,City and Borough of Wrangell,Southeast Alaska Regional Health Consortium,,Southeast Maritime,Southeast,Southeast Economic Region,0.0,0.0
+296,Uganik,Locality,Kodiak Island Borough,Kodiak Area Native Association,,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+297,Umiat,Locality,North Slope Borough,"Arctic Slope Native Association, Limited",,Arctic,North Slope,Northern Economic Region,,
+298,Unga,Locality,Aleutians East Borough,"Aleutian Pribilof Islands Association, Incorporated",,Southwest Maritime,Aleutians,Southwest Economic Region,286.64,
+299,Usibelli,Locality,Denali Borough,Yukon-Kuskokwim Health Corporation,Denali Borough School District,Continental,Railbelt,Interior Economic Region,,
+300,Uyak,Locality,Kodiak Island Borough,Kodiak Area Native Association,,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+301,Ward Cove,Locality,Ketchikan Gateway Borough,Southeast Alaska Regional Health Consortium,Ketchikan Gateway Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+302,Williamsport,Locality,Lake and Peninsula Borough,"Eastern Aleutian Tribes, Incorporated",,Southwest Maritime,Railbelt,Gulf Coast Economic Region,,
+303,Woody Island,Locality,Kodiak Island Borough,Kodiak Area Native Association,,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+304,Andreafsky,Unincorporated,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Saint Mary's School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+305,Bill Moore's Slough,Unincorporated,Kusilvak Census Area,Southeast Alaska Regional Health Consortium,,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,0.0,0.0
+306,Boundary,Unincorporated,Southeast Fairbanks Census Area,"Council of Athabascan Tribal Governments, Incorporated",,Continental,Railbelt,Interior Economic Region,,
+307,Canyon Village,Unincorporated,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+308,Chuloonawick,Unincorporated,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+309,Circle Hot Springs,Unincorporated,Yukon-Koyukuk Census Area,"Council of Athabascan Tribal Governments, Incorporated",,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+310,Copperville,Unincorporated,Copper River Census Area,Copper River Native Association,,Gulf Coast Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+311,Council,Unincorporated,Nome Census Area,,,Western Transitional,Bering Straits,Northern Economic Region,0.0,0.0
+312,Cube Cove,Unincorporated,Hoonah-Angoon Census Area,Southeast Alaska Regional Health Consortium,,Southeast Maritime,Southeast,Southeast Economic Region,0.0,0.0
+313,Ekuk,Unincorporated,Dillingham Census Area,Bristol Bay Area Health Corporation,,Western Transitional,Bristol Bay,Southwest Economic Region,,
+314,Eyak,Unincorporated,Chugach Census Area,Chugachmiut,Cordova City School District,Gulf Coast Maritime,Copper River/Chugach,Gulf Coast Economic Region,,
+315,Fort Glenn,Unincorporated,Aleutians West Census Area,"Aleutian Pribilof Islands Association, Incorporated",,Southwest Maritime,Aleutians,Southwest Economic Region,0.0,0.0
+316,Georgetown,Unincorporated,Bethel Census Area,Southcentral Foundation,Kuspuk School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+317,Hamilton,Unincorporated,Kusilvak Census Area,Southeast Alaska Regional Health Consortium,,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+318,Iditarod,Unincorporated,Yukon-Koyukuk Census Area,Southeast Alaska Regional Health Consortium,,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+319,King Island,Unincorporated,Nome Census Area,"Eastern Aleutian Tribes, Incorporated",,Western Transitional,Bering Straits,Southeast Economic Region,0.0,0.0
+320,Mary's Igloo,Unincorporated,Nome Census Area,Yukon-Kuskokwim Health Corporation,,Western Transitional,Bering Straits,Northern Economic Region,0.0,0.0
+321,Medfra,Unincorporated,Yukon-Koyukuk Census Area,Southcentral Foundation,,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+322,Napaimute,Unincorporated,Bethel Census Area,Yukon-Kuskokwim Health Corporation,,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+323,Nunivak Island,Unincorporated,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+324,Ohogamiut,Unincorporated,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,0.0,0.0
+325,Ophir,Unincorporated,Yukon-Koyukuk Census Area,,,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+326,Paimiut,Unincorporated,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,0.0,0.0
+327,Poorman,Unincorporated,Yukon-Koyukuk Census Area,Southcentral Foundation,,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+328,Saint Lawrence Island,Unincorporated,Nome Census Area,Norton Sound Health Corporation,Bering Strait School District,Western Transitional,Bering Straits,Northern Economic Region,,
+329,Shakan Bay,Unincorporated,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,,Southeast Maritime,Southeast,Southeast Economic Region,,
+330,Eareckson Station,Unincorporated,Aleutians West Census Area,"Aleutian Pribilof Islands Association, Incorporated",,Southwest Maritime,Aleutians,Southwest Economic Region,,
+331,Solomon,Unincorporated,Nome Census Area,Peninsula Community Health Services,,Western Transitional,Bering Straits,Northern Economic Region,0.0,0.0
+332,Telida,Unincorporated,Yukon-Koyukuk Census Area,,,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+333,Umkumiute,Unincorporated,Bethel Census Area,Bristol Bay Area Health Corporation,,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+334,Alcan Border,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+335,Deltana,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Delta-Greely School District,Continental,Railbelt,Interior Economic Region,,
+336,Dot Lake,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+337,Dry Creek,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+338,Elfin Cove,Unincorporated CDP,Hoonah-Angoon Census Area,Southeast Alaska Regional Health Consortium,Chatham School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+339,Four Mile Road,Unincorporated CDP,Yukon-Koyukuk Census Area,,Nenana City School District,Continental,Railbelt,Interior Economic Region,,
+340,Gakona,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+341,Glennallen,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+342,Gulkana,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,0.0,0.0
+343,Healy Lake,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Delta-Greely School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+344,Hollis,Unincorporated CDP,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Southeast Island School District,Southeast Maritime,Southeast,Southeast Economic Region,0.0,0.0
+345,Hyder,Unincorporated CDP,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Southeast Island School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+346,Kasigluk,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+347,Kenny Lake,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+348,Kipnuk,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,0.0,0.0
+349,Gold Sand Acres,Unincorporated,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Delta-Greely School District,Continental,Railbelt,Interior Economic Region,0.0,0.0
+350,Akiachak,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Yupiit School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,0.0,0.0
+351,Alatna,Unincorporated CDP,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+352,Arctic Village,Unincorporated CDP,Yukon-Koyukuk Census Area,"Council of Athabascan Tribal Governments, Incorporated",Yukon Flats School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+353,Atmautluak,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+354,Beaver,Unincorporated CDP,Yukon-Koyukuk Census Area,"Council of Athabascan Tribal Governments, Incorporated",Yukon Flats School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+355,Birch Creek,Unincorporated CDP,Yukon-Koyukuk Census Area,"Council of Athabascan Tribal Governments, Incorporated",Yukon Flats School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+356,Central,Unincorporated CDP,Yukon-Koyukuk Census Area,,Yukon Flats School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+357,Chalkyitsik,Unincorporated CDP,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon Flats School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+358,Chenega,Unincorporated CDP,Chugach Census Area,Chugachmiut,Chugach School District,Gulf Coast Maritime,Copper River/Chugach,Gulf Coast Economic Region,0.0,0.0
+359,Chistochina,Unincorporated CDP,Copper River Census Area,Mt. Sanford Tribal Consortium,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,0.0,0.0
+360,Chitina,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,0.0,0.0
+361,Circle,Unincorporated CDP,Yukon-Koyukuk Census Area,"Council of Athabascan Tribal Governments, Incorporated",Yukon Flats School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+362,Copper Center,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+363,Crooked Creek,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Kuspuk School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+364,Klukwan,Unincorporated CDP,Hoonah-Angoon Census Area,Southeast Alaska Regional Health Consortium,Chatham School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+365,Koliganek,Unincorporated CDP,Dillingham Census Area,Bristol Bay Area Health Corporation,Southwest Region School District,Western Transitional,Bristol Bay,Southwest Economic Region,,
+366,Kongiganak,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+367,Kwigillingok,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+368,Lime Village,Unincorporated CDP,Bethel Census Area,,Iditarod Area School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+369,Manley Hot Springs,Unincorporated CDP,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+370,McCarthy,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+371,Mendeltna,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+372,Mentasta Lake,Unincorporated CDP,Copper River Census Area,Mt. Sanford Tribal Consortium,Alaska Gateway School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+373,Minto,Unincorporated CDP,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+374,Naukati Bay,Unincorporated CDP,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Southeast Island School District,Southeast Maritime,Southeast,Southeast Economic Region,0.0,0.0
+375,Nelchina,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+376,Newtok,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,0.0,0.0
+377,Nikolski,Unincorporated CDP,Aleutians West Census Area,"Aleutian Pribilof Islands Association, Incorporated",Aleutian Region School District,Southwest Maritime,Aleutians,Southwest Economic Region,,
+378,Northway Village,Unincorporated,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+379,Oscarville,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,0.0,0.0
+380,Paxson,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+381,Pitkas Point,Unincorporated CDP,Kusilvak Census Area,Yukon-Kuskokwim Health Corporation,Lower Yukon School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+382,Point Baker,Unincorporated CDP,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Southeast Island School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+383,Port Protection,Unincorporated CDP,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,Southeast Island School District,Southeast Maritime,Southeast,Southeast Economic Region,0.0,0.0
+384,Rampart,Unincorporated CDP,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon-Koyukuk School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+385,Red Devil,Unincorporated CDP,Bethel Census Area,,Kuspuk School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+386,Silver Springs,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+387,Slana,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+388,Sleetmute,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Kuspuk School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+389,Stevens Village,Unincorporated CDP,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Yukon Flats School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+390,Stony River,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Kuspuk School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+391,Takotna,Unincorporated CDP,Yukon-Koyukuk Census Area,"Tanana Chiefs Conference, Department of Health Services",Iditarod Area School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+392,Tanacross,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+393,Tatitlek,Unincorporated CDP,Chugach Census Area,Chugachmiut,Chugach School District,Gulf Coast Maritime,Copper River/Chugach,Gulf Coast Economic Region,,
+394,Tazlina,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,0.0,0.0
+395,Tetlin,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+396,Tok,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+397,Tolsona,Unincorporated CDP,Copper River Census Area,Copper River Native Association,Copper River School District,Transitional,Copper River/Chugach,Gulf Coast Economic Region,,
+398,Tuluksak,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Yupiit School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+399,Tuntutuliak,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+400,Tununak,Unincorporated CDP,Bethel Census Area,Yukon-Kuskokwim Health Corporation,Lower Kuskokwim School District,Western Transitional,Lower Yukon-Kuskokwim,Southwest Economic Region,,
+401,Twin Hills,Unincorporated CDP,Dillingham Census Area,Bristol Bay Area Health Corporation,Southwest Region School District,Western Transitional,Bristol Bay,Southwest Economic Region,,
+402,Venetie,Unincorporated CDP,Yukon-Koyukuk Census Area,"Council of Athabascan Tribal Governments, Incorporated",Yukon Flats School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,0.0,0.0
+403,Whitestone,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Delta-Greely School District,Continental,Railbelt,Interior Economic Region,0.0,0.0
+404,Aleneva,CDP,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,0.0,0.0
+405,Badger,CDP,Fairbanks North Star Borough,Southeast Alaska Regional Health Consortium,Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+406,Beluga,CDP,Kenai Peninsula Borough,"Council of Athabascan Tribal Governments, Incorporated",Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+407,Chena Ridge,CDP,Fairbanks North Star Borough,Yukon-Kuskokwim Health Corporation,Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+408,Chiniak,CDP,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+409,College,CDP,Fairbanks North Star Borough,"Tanana Chiefs Conference, Department of Health Services",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+410,Covenant Life,CDP,Haines Borough,Southeast Alaska Regional Health Consortium,Haines Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+411,Eielson AFB,CDP,Fairbanks North Star Borough,Bristol Bay Area Health Corporation,Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+412,Eureka Roadhouse,CDP,Matanuska-Susitna Borough,"Tanana Chiefs Conference, Department of Health Services",Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+413,Excursion Inlet,CDP,Haines Borough,Southeast Alaska Regional Health Consortium,Haines Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+414,Farm Loop,CDP,Matanuska-Susitna Borough,"Eastern Aleutian Tribes, Incorporated",Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+415,Farmers Loop,CDP,Fairbanks North Star Borough,"Eastern Aleutian Tribes, Incorporated",Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+416,Ferry,CDP,Denali Borough,"Eastern Aleutian Tribes, Incorporated",Denali Borough School District,Continental,Railbelt,Interior Economic Region,,
+417,Fox River,CDP,Kenai Peninsula Borough,"Tanana Chiefs Conference, Department of Health Services",Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,,
+418,Halibut Cove,CDP,Kenai Peninsula Borough,Southeast Alaska Regional Health Consortium,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+419,Harding-Birch Lakes,CDP,Fairbanks North Star Borough,,Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+420,Hobart Bay,CDP,Petersburg Borough,Southeast Alaska Regional Health Consortium,,Southeast Maritime,Southeast,Southeast Economic Region,,
+421,Ivanof Bay,CDP,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Southwest Maritime,Bristol Bay,Southwest Economic Region,0.0,0.0
+422,Kodiak Station,CDP,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+423,Lakes,Locality,Matanuska-Susitna Borough,,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+424,Loring,CDP,Ketchikan Gateway Borough,Southeast Alaska Regional Health Consortium,Ketchikan Gateway Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+425,Lutak,CDP,Haines Borough,Southeast Alaska Regional Health Consortium,Haines Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+426,Mosquito Lake,CDP,Haines Borough,Southeast Alaska Regional Health Consortium,Haines Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+427,Mud Bay,CDP,Haines Borough,Southeast Alaska Regional Health Consortium,Haines Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+428,Point Possession,CDP,Kenai Peninsula Borough,Southcentral Foundation,Kenai Peninsula Borough School District,Gulf Coast Transitional,Railbelt,Gulf Coast Economic Region,0.0,0.0
+429,Pope-Vannoy Landing,CDP,Lake and Peninsula Borough,Southcentral Foundation,Lake and Peninsula Borough School District,Western Transitional,Bristol Bay,Southwest Economic Region,,
+430,Prudhoe Bay,CDP,North Slope Borough,"Arctic Slope Native Association, Limited",North Slope Borough School District,Arctic,North Slope,Northern Economic Region,,
+431,Red Dog Mine,CDP,Northwest Arctic Borough,Maniilaq Association,Northwest Arctic Borough School District,Arctic,Northwest Arctic,Northern Economic Region,,
+432,Skwentna,CDP,Matanuska-Susitna Borough,Southeast Alaska Regional Health Consortium,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+433,South Van Horn,CDP,Fairbanks North Star Borough,Bristol Bay Area Health Corporation,Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+434,Steele Creek,CDP,Fairbanks North Star Borough,Norton Sound Health Corporation,Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+435,Sunrise,CDP,Kenai Peninsula Borough,Yukon-Kuskokwim Health Corporation,Kenai Peninsula Borough School District,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+436,Susitna North,CDP,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+437,Tanaina,CDP,Matanuska-Susitna Borough,"Tanana Chiefs Conference, Department of Health Services",Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+438,Ugashik,CDP,Lake and Peninsula Borough,Bristol Bay Area Health Corporation,Lake and Peninsula Borough School District,Southwest Maritime,Bristol Bay,Southwest Economic Region,,
+439,Womens Bay,CDP,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,0.0,0.0
+440,Afognak,Locality,Kodiak Island Borough,Kodiak Area Native Association,,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+441,Alexander Creek,Locality,Matanuska-Susitna Borough,"Eastern Aleutian Tribes, Incorporated",,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+442,Alpine,Locality,North Slope Borough,"Tanana Chiefs Conference, Department of Health Services",,Arctic,North Slope,Northern Economic Region,,
+443,Auke Bay,Locality,City and Borough of Juneau,Southeast Alaska Regional Health Consortium,Juneau Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+444,Ayakulik,Locality,Kodiak Island Borough,Kodiak Area Native Association,,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+445,Belkofski,Locality,Aleutians East Borough,"Aleutian Pribilof Islands Association, Incorporated",,Southwest Maritime,Aleutians,Southwest Economic Region,0.0,0.0
+446,Birchwood,Locality,Municipality of Anchorage,"Council of Athabascan Tribal Governments, Incorporated",Anchorage School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+447,Candle,Locality,Northwest Arctic Borough,Maniilaq Association,,Arctic,Northwest Arctic,Northern Economic Region,0.0,0.0
+448,Cape Lisburne,Locality,North Slope Borough,"Arctic Slope Native Association, Limited",,Arctic,North Slope,Northern Economic Region,,
+449,Cape Yakataga,Locality,City and Borough of Yakutat,Chugachmiut,,Southeast Maritime,Southeast,Southeast Economic Region,,
+450,Chugiak,Locality,Municipality of Anchorage,Yukon-Kuskokwim Health Corporation,Anchorage School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+451,Circle View Stampede,Locality,Matanuska-Susitna Borough,"Council of Athabascan Tribal Governments, Incorporated",Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+452,Clear,Locality,Denali Borough,Bristol Bay Area Health Corporation,,Continental,Railbelt,Interior Economic Region,,
+453,Douglas,Locality,City and Borough of Juneau,Southeast Alaska Regional Health Consortium,Juneau Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+454,Eagle River,Locality,Municipality of Anchorage,Southcentral Foundation,Anchorage School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+455,Eklutna,Locality,Municipality of Anchorage,Bristol Bay Area Health Corporation,Anchorage School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+456,Fort Wainwright,Locality,Fairbanks North Star Borough,Southcentral Foundation,Fairbanks North Star Borough School District,Continental,Railbelt,Interior Economic Region,,
+457,Girdwood,Locality,Municipality of Anchorage,Southcentral Foundation,Anchorage School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+458,Jakolof Bay,Locality,Kenai Peninsula Borough,Bristol Bay Area Health Corporation,,Gulf Coast Maritime,Railbelt,Gulf Coast Economic Region,,
+459,Kaguyak,Locality,Kodiak Island Borough,Kodiak Area Native Association,,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,0.0,0.0
+460,Haines,CDP,Haines Borough,Southeast Alaska Regional Health Consortium,Haines Borough School District,Southeast Maritime,Southeast,Southeast Economic Region,,
+461,Klawock Lake,Unincorporated,Prince of Wales-Hyder Census Area,Southeast Alaska Regional Health Consortium,,Southeast Maritime,Southeast,Southeast Economic Region,0.0,0.0
+462,Joint Base Elmendorf-Richardson,Locality,Municipality of Anchorage,Bristol Bay Area Health Corporation,Anchorage School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+463,South Lakes,CDP,Matanuska-Susitna Borough,,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+464,North Lakes,CDP,Matanuska-Susitna Borough,,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+465,Mill Bay,CDP,Kodiak Island Borough,Kodiak Area Native Association,Kodiak Island Borough School District,Gulf Coast Maritime,Kodiak,Gulf Coast Economic Region,,
+466,Caswell,Locality,Matanuska-Susitna Borough,Southcentral Foundation,Matanuska-Susitna Borough School District,Transitional,Railbelt,Anchorage/Mat-Su Economic Region,,
+467,Eagle Village,Unincorporated CDP,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,,
+468,Eagle,2nd Class City,Southeast Fairbanks Census Area,"Tanana Chiefs Conference, Department of Health Services",Alaska Gateway School District,Continental,Yukon-Koyukuk/Upper Tanana,Interior Economic Region,1.0,
+469,Igushik,Unincorporated,Dillingham Census Area,,Southwest Region School District,,Bristol Bay,Southwest Economic Region,,
+470,Lewis Point,Unincorporated,Dillingham Census Area,,Southwest Region School District,,Bristol Bay,Southwest Economic Region,,

@@ -1,0 +1,414 @@
+,commname,relying_on_substinence
+0,Fox,NO
+1,Skagway,YES
+2,Tazlina,YES
+3,Lakes,YES
+4,Shishmaref,YES
+5,Ekuk,YES
+6,Chefornak,YES
+7,King Salmon,YES
+8,Anvik,YES
+9,Cohoe,YES
+10,Gulkana,YES
+11,Kiana,YES
+12,Council,YES
+13,Napaimute,YES
+14,Nikolai,YES
+15,Woody Island,YES
+16,Ketchikan Gateway Borough,YES
+17,Adak,YES
+18,Anchorage,NO
+19,Noatak,YES
+20,Ugashik,YES
+21,Tolsona,YES
+22,Georgetown,YES
+23,Kupreanof,YES
+24,Portage Creek,YES
+25,Flat,YES
+26,Goldstream,YES
+27,Dot Lake Village,YES
+28,Old Harbor,YES
+29,Saxman,NO
+30,Port Alsworth,YES
+31,Aleneva,YES
+32,Lake Minchumina,YES
+33,Homer,NO
+34,Tatitlek,YES
+35,Dot Lake,YES
+36,Klawock,YES
+37,Nulato,YES
+38,Aleknagik,YES
+39,Tanaina,YES
+40,Takotna,YES
+41,Naknek,YES
+42,Kalifornsky,YES
+43,Lazy Mountain,NO
+44,Mendeltna,YES
+45,Manokotak,YES
+46,Ivanof Bay,YES
+47,Nikolaevsk,NO
+48,Shungnak,YES
+49,Pedro Bay,YES
+50,Pilot Point,YES
+51,Saint Paul,YES
+52,Sand Point,YES
+53,Juneau,NO
+54,Prudhoe Bay,YES
+55,Talkeetna,NO
+56,Copper Center,YES
+57,Chiniak,NO
+58,Andreafsky,YES
+59,Wales,YES
+60,Skwentna,YES
+61,Anaktuvuk Pass,YES
+62,Kokhanok,YES
+63,Atmautluak,YES
+64,Two Rivers,NO
+65,Salamatof,YES
+66,Petersburg,YES
+67,Beluga,YES
+68,King Island,YES
+69,Gambell,YES
+70,Akhiok,YES
+71,Larsen Bay,YES
+72,Pleasant Valley,YES
+73,Bear Creek,YES
+74,Manley Hot Springs,YES
+75,Joint Base Elmendorf-Richardson,NO
+76,Kaltag,YES
+77,Kipnuk,YES
+78,Nikiski,NO
+79,Happy Valley,YES
+80,Iliamna,YES
+81,Tenakee Springs,YES
+82,Port Graham,YES
+83,Fox River,YES
+84,Kotzebue,YES
+85,Oscarville,YES
+86,Bristol Bay Borough,YES
+87,Alakanuk,YES
+88,Upper Kalskag,YES
+89,Deering,YES
+90,Stevens Village,YES
+91,Eklutna,NO
+92,Chevak,YES
+93,Evansville,YES
+94,Susitna,YES
+95,Nelchina,YES
+96,Port Lions,YES
+97,Hollis,YES
+98,Healy,NO
+99,Central,YES
+100,Kodiak Station,NO
+101,Mekoryuk,YES
+102,Telida,YES
+103,Elfin Cove,YES
+104,Hope,NO
+105,Aleutians East Borough,YES
+106,Venetie,YES
+107,Ninilchik,NO
+108,Susitna North,YES
+109,North Slope Borough,YES
+110,Koliganek,YES
+111,Akiak,YES
+112,Gateway,YES
+113,South Van Horn,YES
+114,Matanuska-Susitna Borough,YES
+115,Shaktoolik,YES
+116,Ketchikan,NO
+117,Tuluksak,YES
+118,South Naknek,YES
+119,Denali Borough,YES
+120,Port Heiden,YES
+121,Wasilla,NO
+122,Eagle,YES
+123,Whale Pass,YES
+124,Sunrise,YES
+125,Umkumiute,YES
+126,Chickaloon,NO
+127,Portage,NO
+128,Kwigillingok,YES
+129,Mary's Igloo,YES
+130,Saint Michael,YES
+131,Port Alexander,YES
+132,Glacier View,YES
+133,Covenant Life,YES
+134,College,YES
+135,Quinhagak,YES
+136,Kivalina,YES
+137,Cordova,YES
+138,Northwest Arctic Borough,YES
+139,Kwethluk,YES
+140,Chatanika,NO
+141,Anchor Point,NO
+142,New Allakaket,YES
+143,Crooked Creek,YES
+144,Lake Louise,YES
+145,Chisana,YES
+146,Kasigluk,YES
+147,Hobart Bay,YES
+148,Peters Creek,NO
+149,Attu Station,YES
+150,Holy Cross,YES
+151,Houston,NO
+152,Paxson,YES
+153,Pope-Vannoy Landing,YES
+154,Fort Yukon,YES
+155,Eek,YES
+156,Igiugig,YES
+157,Hughes,YES
+158,Coffman Cove,YES
+159,Sleetmute,YES
+160,Lutak,YES
+161,Copperville,YES
+162,Dillingham,YES
+163,Selawik,YES
+164,Aniak,YES
+165,Barrow,YES
+166,Womens Bay,NO
+167,McKinley Park,YES
+168,Nunapitchuk,YES
+169,Ruby,YES
+170,Soldotna,NO
+171,Ridgeway,YES
+172,Toksook Bay,YES
+173,Shageluk,YES
+174,Lower Kalskag,YES
+175,Eyak,YES
+176,Healy Lake,YES
+177,Red Devil,YES
+178,Halibut Cove,NO
+179,Haines,YES
+180,Tununak,YES
+181,Chitina,YES
+182,Ouzinkie,YES
+183,Kasilof,NO
+184,Big Lake,NO
+185,Newtok,YES
+186,Voznesenka Village,YES
+187,White Mountain,YES
+188,Point Possession,YES
+189,Salcha,NO
+190,Nelson Lagoon,YES
+191,Hoonah,YES
+192,Russian Mission,YES
+193,Hydaburg,YES
+194,Petersville,YES
+195,Livengood,YES
+196,Deltana,YES
+197,Unalaska,YES
+198,Excursion Inlet,YES
+199,Tuntutuliak,YES
+200,Sitka,YES
+201,Cold Bay,YES
+202,Kotlik,YES
+203,Fort Glenn,NO
+204,Pauloff Harbor,YES
+205,Teller,YES
+206,Hooper Bay,YES
+207,Thorne Bay,YES
+208,Diomede,YES
+209,Unalakleet,YES
+210,Farmers Loop,YES
+211,Birch Creek,YES
+212,Beaver,YES
+213,Glennallen,YES
+214,Hyder,YES
+215,Farm Loop,YES
+216,Wrangell,YES
+217,Arctic Village,YES
+218,Belkofski,YES
+219,Girdwood,NO
+220,Four Mile Road,YES
+221,Kaktovik,YES
+222,Whittier,YES
+223,Goodnews Bay,YES
+224,New Stuyahok,YES
+225,Bethel,NO
+226,Atqasuk,YES
+227,Harding-Birch Lakes,YES
+228,Funny River,YES
+229,Chena Hot Springs,NO
+230,Nanwalek,YES
+231,Noorvik,YES
+232,Point Baker,YES
+233,McCarthy,YES
+234,Auke Bay,NO
+235,Hamilton,YES
+236,Mud Bay,YES
+237,Kake,YES
+238,Trapper Creek,NO
+239,Crown Point,YES
+240,Tanana,YES
+241,Scammon Bay,YES
+242,Emmonak,YES
+243,Clam Gulch,NO
+244,Yakutat,YES
+245,Knik,NO
+246,Chena Ridge,YES
+247,Koyuk,YES
+248,Paimiut,YES
+249,Sutton-Alpine,YES
+250,Ferry,NO
+251,Seldovia,YES
+252,Nenana,YES
+253,Galena,YES
+254,Marshall,YES
+255,Saint George,YES
+256,Nome,YES
+257,Fairbanks,NO
+258,Coldfoot,YES
+259,Point Hope,YES
+260,Point Lay,YES
+261,Kaguyak,YES
+262,Kachemak,YES
+263,Lime Village,YES
+264,Diamond Ridge,YES
+265,Chignik Lake,YES
+266,Tok,YES
+267,McGrath,YES
+268,Egegik,YES
+269,Chuloonawick,YES
+270,Kobuk,YES
+271,Willow Creek,YES
+272,Allakaket,YES
+273,Angoon,YES
+274,North Pole,NO
+275,Kanatak,YES
+276,Game Creek,YES
+277,Chicken,YES
+278,Kenai,NO
+279,King Cove,YES
+280,Kodiak,NO
+281,Port William,YES
+282,Karluk,YES
+283,Mertarvik,YES
+284,Mosquito Lake,YES
+285,Wainwright,YES
+286,Nabesna,YES
+287,Newhalen,YES
+288,Kenny Lake,YES
+289,Gakona,YES
+290,Metlakatla,YES
+291,Afognak,YES
+292,Chistochina,YES
+293,Whitestone,YES
+294,Haines Borough,YES
+295,Kenai Peninsula Borough,YES
+296,Mountain Village,YES
+297,Delta Junction,NO
+298,Pitkas Point,YES
+299,Chignik Lagoon,YES
+300,Knik-Fairview,YES
+301,Big Delta,NO
+302,Savoonga,YES
+303,Grayling,YES
+304,Wiseman,YES
+305,Butte,NO
+306,Anderson,YES
+307,Mentasta Lake,YES
+308,Napakiak,YES
+309,Twin Hills,YES
+310,Palmer,NO
+311,Ohogamiut,YES
+312,Point MacKenzie,YES
+313,Kodiak Island Borough,NO
+314,Minto,YES
+315,Ambler,YES
+316,Eagle River,YES
+317,Akutan,YES
+318,Seldovia Village,YES
+319,Northway Junction,YES
+320,Primrose,YES
+321,Golovin,YES
+322,Togiak,YES
+323,Saint Mary's,YES
+324,Gustavus,YES
+325,Ester,NO
+326,Chuathbaluk,YES
+327,Port Clarence,YES
+328,Stony River,YES
+329,Willow,NO
+330,Edna Bay,YES
+331,Naukati Bay,YES
+332,Platinum,YES
+333,Nightmute,YES
+334,Stebbins,YES
+335,Knik River,YES
+336,Pelican,YES
+337,Fort Wainwright,NO
+338,Fort Greely,NO
+339,Unga,YES
+340,Fishhook,NO
+341,Moose Pass,NO
+342,Northway Village,YES
+343,Chalkyitsik,YES
+344,Pilot Station,YES
+345,Chenega,YES
+346,Birchwood,NO
+347,Tyonek,YES
+348,Clark's Point,YES
+349,Meadow Lakes,NO
+350,Moose Creek,NO
+351,Alcan Border,YES
+352,False Pass,YES
+353,Sterling,NO
+354,Silver Springs,YES
+355,Loring,NO
+356,Fritz Creek,NO
+357,Northway,YES
+358,Kongiganak,YES
+359,Chase,NO
+360,Buckland,YES
+361,Eureka Roadhouse,YES
+362,Chignik,YES
+363,Nikolski,YES
+364,Kasaan,YES
+365,Port Protection,YES
+366,Bill Moore's Slough,YES
+367,Buffalo Soapstone,YES
+368,Atka,YES
+369,Cube Cove,YES
+370,Lake and Peninsula Borough,YES
+371,Eielson AFB,NO
+372,Lowell Point,YES
+373,Dry Creek,YES
+374,Douglas,NO
+375,Napaskiak,YES
+376,Nondalton,YES
+377,Levelock,YES
+378,Valdez,NO
+379,Klukwan,YES
+380,Petersburg Borough,YES
+381,Alatna,YES
+382,Circle,YES
+383,Cooper Landing,NO
+384,Tetlin,YES
+385,Tanacross,YES
+386,Ward Cove,NO
+387,Rampart,YES
+388,Tonsina,YES
+389,Steele Creek,YES
+390,Badger,YES
+391,Solomon,YES
+392,Cantwell,YES
+393,Akiachak,YES
+394,Fairbanks North Star Borough - FNSB,NO
+395,Elim,YES
+396,Thane,NO
+397,Craig,YES
+398,Nunam Iqua,YES
+399,Ekwok,YES
+400,Nuiqsut,YES
+401,Whitestone Logging Camp,YES
+402,Brevig Mission,YES
+403,Slana,YES
+404,Chugiak,NO
+405,Red Dog Mine,YES
+406,Perryville,YES
+407,Huslia,YES
+408,Bettles,YES
+409,Saint Lawrence Island,YES
+410,Eagle Village,YES
+411,Seward,NO
+412,Koyukuk,YES

@@ -1,0 +1,107 @@
+﻿X,Y,OBJECTID,CommunityName,UtilityType,FacilityName,FacilityOwner,Class,ResidentsServed,NumberOfServiceConnections,SystemID,NumberOfPressureZones,CirculatedOrHeatedSystem,AsOfDate
+-542392.68206103,1456437.72182411,1,Alakanuk,Water Distribution,Alakanuk Water Distribution System,"Alakanuk, City of",WD 2,570,147,44,3,Yes,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,2,Anchorage,Water Distribution,Unified Alaskan Utilities-Homestead Water Distribution System,Unified Alaskan Utilities-Homestead,WD 1,852,213,211431,2,No,2023/07/31 08:00:00+00
+94894.1751459759,2021732.21131396,3,Anaktuvuk Pass,Water Distribution,Anaktuvuk Pass Water Distribution System,North Slope Borough,WD 2,340,105,519,1,Yes,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,4,Anchorage,Water Distribution,Anchorage Water Distribution System,"Anchorage, City of",WD 4,221379,85146,24,55,No,2023/07/31 08:00:00+00
+262653.505677014,1230166.70557979,5,Girdwood,Water Distribution,Girdwood Water Distribution System,"Anchorage, City of",WD 3,2333,1088,27,6,Yes,2023/07/31 08:00:00+00
+1144736.49530355,1001399.30409643,6,Angoon,Water Distribution,Angoon Water Distribution System,"Angoon, City of",WD 1,375,158,29,3,No,2023/07/31 08:00:00+00
+-420708.278583235,1225426.14136511,7,Bethel,Water Distribution,Bethel City S/D Water Distribution System,"Bethel, City of",WD 2,1450,250,62,1,Yes,2023/07/31 08:00:00+00
+-420708.278583235,1225426.14136511,8,Bethel,Water Distribution,Bethel Heights Water Distribution System,"Bethel, City of",WD 2,2020,296,40,1,Yes,2023/07/31 08:00:00+00
+-611354.424221957,1336742.93808656,9,Chevak,Water Distribution,Chevak Water Distribution System,"Chevak, City of",WD 2,950,190,262,1,Yes,2023/07/31 08:00:00+00
+1296627.69138198,875531.322046869,10,Coffman Cove,Water Distribution,Coffman Cove Water Distribution System,"Coffman Cove, City of",WD 1,199,141,495,1,No,2023/07/31 08:00:00+00
+449342.259478468,1201051.13508385,11,Cordova,Water Distribution,Cordova Water Distribution System,"Cordova, City of",WD 2,1700,872,67,3,No,2023/07/31 08:00:00+00
+1296030.65760968,812250.477347349,12,Craig,Water Distribution,Craig Water Distribution System,"Craig, City of",WD 2,1420,581,71,1,No,2023/07/31 08:00:00+00
+-255124.356889429,1013454.33727143,13,Dillingham,Water Distribution,Dillingham Water Distribution System,"Dillingham, City of",WD 1,2250,215,76,1,No,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,14,Anchorage,Water Distribution,Dimond Estates Water Distribution System,Dimond Estates TC,WD 2,1395,513,522,1,No,2023/07/31 08:00:00+00
+-533862.500488994,1465251.0985118,15,Emmonak,Water Distribution,Emmonak Water Distribution System,"Emmonak, City of",WD 2,811,206,82,1,Yes,2023/07/31 08:00:00+00
+258015.620438038,1300696.69892349,16,Palmer,Water Distribution,Equestrian Acres Water System,Equestrian Acres,WD 1,950,230,227199,1,No,2023/07/31 08:00:00+00
+297451.122482249,1667250.52584127,17,Fairbanks,Water Distribution,CUC Water Distribution System,Utility Services of Alaska,WD 3,13000,2505,310900,2,Yes,2023/07/31 08:00:00+00
+297451.122482249,1667250.52584127,18,Fairbanks,Water Distribution,GHU Water Distribution System,Utility Services of Alaska,WD 4,31535,6276,4,1,Yes,2023/07/31 08:00:00+00
+389073.564573699,1871099.72992694,19,Fort Yukon,Water Distribution,Fort Yukon Water Distribution System,"Fort Yukon, City of",WD 2,600,190,87,1,Yes,2023/07/31 08:00:00+00
+-136929.048131091,1645322.79517116,20,Galena,Water Distribution,Galena Water Distribution System,"Galena, City of",WD 2,500,63,91,2,Yes,2023/07/31 08:00:00+00
+-861997.814284141,1650244.02734943,21,Gambell,Water Distribution,Gambell Water Distribution System,"Gambell, City of",WD 2,750,134,94,3,Yes,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,22,Anchorage,Water Distribution,Glencaren Court Water Distribution System,Glencaren Court,WD 1,650,450,210689,1,No,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,23,Anchorage,Water Distribution,Glenn Muldoon TC Water System,Glenn Muldoon TC,WD 1,354,104,213336,1,No,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,24,Anchorage,Water Distribution,"Golden Nugget RV Park, Malaspina MHP Water System","Golden Nugget RV Park, Malaspina MHP",WD 1,500,300,212128,1,No,2023/07/31 08:00:00+00
+1041546.65601907,1173104.96179083,25,Haines,Water Distribution,Haines Water Distribution System,Haines Borough,WD 2,1800,605,101,4,No,2023/07/31 08:00:00+00
+138629.431092521,1075412.72159425,26,Homer,Water Distribution,Homer Water Distribution System,"Homer, City of",WD 3,6008,1640,109,16,No,2023/07/31 08:00:00+00
+1076331.88668661,1052302.38252826,27,Hoonah,Water Distribution,Hoonah Water Distribution System,"Hoonah, City of",WD 1,900,300,277,4,No,2023/07/31 08:00:00+00
+-637703.69598663,1341749.41966851,28,Hooper Bay,Water Distribution,Hooper Bay Water Distribution System,"Hooper Bay, City of",WD 2,1149,89,501,1,Yes,2023/07/31 08:00:00+00
+1325135.64850376,790122.786706786,29,Hydaburg,Water Distribution,Hydaburg Water Distribution System,"Hydaburg, City of",WD 1,365,100,307,4,No,2023/07/31 08:00:00+00
+224056.214300624,1259961.58589164,30,JBER,Water Distribution,Elmendorf AFB Water Distribution System,US Air Force,WD 3,18540,815,211423,10,Yes,2023/07/31 08:00:00+00
+224056.214300624,1259961.58589164,31,JBER,Water Distribution,Fort Richardson Water Distribution System,"Doyon Utilities, LLC.",WD 2,15585,750,150,2,No,2023/07/31 08:00:00+00
+1128714.87957736,1089944.96465042,32,Juneau,Water Distribution,Juneau Water Distribution System,"Juneau, City of",WD 4,27000,9794,5,7,No,2023/07/31 08:00:00+00
+1198537.96643152,956568.247197351,33,Kake,Water Distribution,Kake Water Distribution System,"Kake, City of",WD 1,500,394,284,1,No,2023/07/31 08:00:00+00
+399600.549366245,2270028.55604022,34,Kaktovik,Water Distribution,Kaktovik (Barter IS) Water Distribution System,North Slope Borough,WD 2,286,111,38,1,Yes,2023/07/31 08:00:00+00
+150304.99635841,1177925.70109076,35,Kenai,Water Distribution,Kenai Water Distribution System,"Kenai, City of",WD 2,5950,1868,70,1,No,2023/07/31 08:00:00+00
+1390950.75286723,828555.095617095,36,Ketchikan,Water Distribution,Ketchikan Public Utilities Water Distribution System,Ketchikan Public Utilities,WD 3,8250,3200,290,7,No,2023/07/31 08:00:00+00
+1390950.75286723,828555.095617095,37,Ketchikan,Water Distribution,South Tongass Water Utility Water Distribution System,Ketchikan Gateway Borough,WD 1,1321,378,90,2,No,2023/07/31 08:00:00+00
+-281947.629636162,1904401.94665282,38,Kiana,Water Distribution,Kiana Water Distribution System,Kiana Water System,WD 2,380,130,509,3,Yes,2023/07/31 08:00:00+00
+-529656.810844552,593924.882474006,39,King Cove,Water Distribution,King Cove Water Distribution System,"King Cove, City of",WD 1,807,180,298,2,No,2023/07/31 08:00:00+00
+1296632.86162785,821637.582139224,40,Klawock,Water Distribution,Klawock Water Distribution System,"Klawock, City of",WD 1,955,334,312,3,No,2023/07/31 08:00:00+00
+95027.5224326542,866747.9369809,41,Kodiak,Water Distribution,Kodiak Water Distribution System,"Kodiak, City of",WD 2,9400,2532,316,1,No,2023/07/31 08:00:00+00
+-480768.456775202,1486120.89410419,42,Kotlik,Water Distribution,Kotlik Water Distribution System,"Kotlik, City of",WD 2,650,130,487,1,Yes,2023/07/31 08:00:00+00
+-377013.715648148,1906544.48611949,43,Kotzebue,Water Distribution,Kotzebue Water Distribution System,"Kotzebue, City of",WD 3,3130,1037,324,5,Yes,2023/07/31 08:00:00+00
+-402442.765696949,1225580.36430067,44,Kwethluk,Water Distribution,Kwethluk Water Distribution System,"Kwethluk, City of",WD 2,760,192,527,2,Yes,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,45,Anchorage,Water Distribution,Manoogs Isle Mobile Home Park Water Distribution System,Manoogs Isle Mobile Home Park,WD 1,935,340,218630,1,No,2023/07/31 08:00:00+00
+-422939.120937902,1348502.57937497,46,Marshall,Water Distribution,Marshall Water Distribution System,"Marshall, City of",WD 2,308,130,75,1,Yes,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,47,Anchorage,Water Distribution,Mayflower TC Water Distribution System,Mayflower TC,WD 1,600,380,211619,1,No,2023/07/31 08:00:00+00
+-80396.1108252345,1443158.11815246,48,McGrath,Water Distribution,McGrath Water Distribution System,"McGrath, City of",WD 2,321,160,85,1,Yes,2023/07/31 08:00:00+00
+221335.130288721,1292873.46128974,49,Big Lake,Water Distribution,Meadow Brook Subdivision Water System,Meadow Brook Subdivision,WD 1,465,190,220037,1,No,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,50,Anchorage,Water Distribution,Midtown Estates Water Distribution System,Midtown Estates,WD 1,625,200,17,1,No,2023/07/31 08:00:00+00
+232080.794116209,1289597.03243804,51,Knik-Fairview,Water Distribution,Mile 8 Utilities M8W Water Distribution System,Mile 8 Utilities M8W,WD 2,2375,644,523,1,No,2023/07/31 08:00:00+00
+-504640.533465355,1383006.48491385,52,Mountain Village,Water Distribution,Mountain Village Water Distribution System,"Mountain Village, City of",WD 2,850,214,520,2,Yes,2023/07/31 08:00:00+00
+234989.287041507,1630972.24399515,53,Nenana,Water Distribution,Nenana Water Distribution System,"Nenana, City of",WD 2,432,226,356,2,Yes,2023/07/31 08:00:00+00
+-187051.232425995,1055625.0881875,54,New Stuyahok,Water Distribution,New Stuyahok Water Distribution System,"New Stuyahok, City of",WD 2,500,100,260367,1,Yes,2023/07/31 08:00:00+00
+-384157.774716963,1983045.85661991,55,Noatak,Water Distribution,Noatak Water Distribution System,"Noatak, Native Community of",WD 2,500,106,470,4,Yes,2023/07/31 08:00:00+00
+-545130.115627811,1662011.78006188,56,Nome,Water Distribution,Nome Water Distribution System,"Nome, City of",WD 3,3400,1250,366,1,Yes,2023/07/31 08:00:00+00
+-310203.95042872,1891560.16964191,57,Noorvik,Water Distribution,Noorvik Water Distribution System,"Noorvik, City of",WD 2,700,105,371,1,Yes,2023/07/31 08:00:00+00
+315855.959761862,1659546.0701719,58,North Pole,Water Distribution,North Pole Water Distribution System,"North Pole, City of",WD 3,2000,1100,375,1,Yes,2023/07/31 08:00:00+00
+115434.355028723,2251263.44261842,59,Nuiqsut,Water Distribution,Nuiqsut Water Distribution System,North Slope Borough,WD 2,416,133,419,1,Yes,2023/07/31 08:00:00+00
+258015.620438038,1300696.69892349,60,Palmer,Water Distribution,Palmer Water Distribution System,"Palmer, City of",WD 2,5937,2267,525,3,No,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,61,Anchorage,Water Distribution,Penland Park MHP Water Distribution System,Penland Park MHP,WD 1,1200,382,210419,1,No,2023/07/31 08:00:00+00
+1261271.08419403,957469.206997323,62,Petersburg,Water Distribution,Petersburg Water Distribution System,Petersburg Borough,WD 2,3363,1127,389,1,No,2023/07/31 08:00:00+00
+-463440.278725839,1359992.70645285,63,Pilot Station,Water Distribution,Pilot Station Water Distribution System,"Pilot Station, City of",WD 2,560,126,79,1,Yes,2023/07/31 08:00:00+00
+240926.821971153,1297506.21747755,64,Wasilla,Water Distribution,Pioneer Meadows Subdivision Water Distribution System,Pioneer Meadows Subdivision,WD 1,435,120,227734,1,No,2023/07/31 08:00:00+00
+-526202.60112902,2093518.87211088,65,Point Hope,Water Distribution,Point Hope Water Distribution System,North Slope Borough,WD 2,764,233,425,1,Yes,2023/07/31 08:00:00+00
+66076.0433834472,874380.056336525,66,Port Lions,Water Distribution,Port Lions Water Distribution System,"Port Lions, City of",WD 1,211,114,32,1,No,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,67,Anchorage,Water Distribution,Potter Creek Water Company Water Distribution System,Potter Creek Water Company,WD 1,375,130,518,3,No,2023/07/31 08:00:00+00
+-441451.852918794,1110782.82189395,68,Quinhagak,Water Distribution,Quinhagak Water Distribution System,"Quinhagak, City of",WD 2,669,108,478,1,Yes,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,69,Anchorage,Water Distribution,Rangeview TC Water Distribution System,Rangeview TC,WD 1,795,318,209,1,No,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,70,Anchorage,Water Distribution,Riviera Terrace TC Water Distribution System,Riviera Terrace TC,WD 1,475,143,446,1,No,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,71,Anchorage,Water Distribution,Romig Park S/D Water Distribution System,Romig Park S/D,WD 1,393,131,211114,1,No,2023/07/31 08:00:00+00
+-476820.244012596,1374720.1165265,72,Saint Mary's,Water Distribution,Saint Mary's Water Distribution System,"Saint Mary's, City of",WD 2,521,170,401,3,Yes,2023/07/31 08:00:00+00
+-974185.249990874,910524.195606546,73,Saint Paul,Water Distribution,Saint Paul Water Distribution System,"Saint Paul, City of",WD 1,370,190,251,1,No,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,74,Anchorage,Water Distribution,Sand Lake Services Water Distribution System,Sand Lake Services,WD 1,456,152,210485,1,No,2023/07/31 08:00:00+00
+-411466.861134354,612219.93928279,75,Sand Point,Water Distribution,Sand Point Water Distribution System,"Sand Point, City of",WD 2,1100,293,254,16,No,2023/07/31 08:00:00+00
+-805515.136213651,1625678.78277187,76,Savoonga,Water Distribution,Savoonga Water Distribution System,"Savoonga, City of",WD 2,700,162,23,1,Yes,2023/07/31 08:00:00+00
+1394834.30839002,827141.152786474,77,Saxman,Water Distribution,Saxman Water Distribution System,"Saxman, City of",WD 1,422,138,451,2,No,2023/07/31 08:00:00+00
+-604790.129936927,1371265.24459968,78,Scammon Bay,Water Distribution,Scammon Bay Water Distribution System,"Scammon Bay, City of",WD 2,533,70,469,1,Yes,2023/07/31 08:00:00+00
+-267001.161616563,1861743.41404769,79,Selawik,Water Distribution,Selawik Water Distribution System,"Selawik, City of",WD 2,800,200,406,1,Yes,2023/07/31 08:00:00+00
+128947.580591873,1051951.17416714,80,Seldovia,Water Distribution,Seldovia Water Distribution System,"Seldovia, City of",WD 1,287,204,227,1,No,2023/07/31 08:00:00+00
+1115221.96070411,940259.193283325,81,Sitka,Water Distribution,Sitka Water Distribution System,"Sitka, City of",WD 2,8600,3100,11,3,No,2023/07/31 08:00:00+00
+1042115.23995418,1199030.95630824,82,Skagway,Water Distribution,Skagway Water Distribution System,"Skagway, City of",WD 1,850,375,110601,1,No,2023/07/31 08:00:00+00
+160632.581953389,1170692.1222477,83,Soldotna,Water Distribution,Soldotna Water Distribution System,"Soldotna, City of",WD 2,3800,1350,213,3,No,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,84,Anchorage,Water Distribution,Southwood Manor TC Water Distribution System,Southwood Manor TC,WD 1,1200,417,155,1,No,2023/07/31 08:00:00+00
+200806.566477601,1377989.09479474,85,Talkeetna,Water Distribution,Talkeetna Water Distribution System,"Talkeetna, City of",WD 1,450,215,483,1,No,2023/07/31 08:00:00+00
+1326319.36788725,846815.094827237,86,Thorne Bay,Water Distribution,Thorne Bay Water Distribution System,"Thorne Bay, City of",WD 1,348,203,196,1,No,2023/07/31 08:00:00+00
+-364120.520402744,1024741.77608156,87,Togiak,Water Distribution,Togiak Water Distribution System,"Togiak, City of",WD 2,800,130,521,2,Yes,2023/07/31 08:00:00+00
+-604707.768126036,1222202.94569942,88,Toksook Bay,Water Distribution,Toksook Bay Water Distribution System,"Toksook Bay, City of",WD 2,500,141,18,1,Yes,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,89,Anchorage,Water Distribution,Totem Trailer Town TC Water System,Totem Trailer Town TC,WD 1,480,192,210574,1,No,2023/07/31 08:00:00+00
+-332652.664299918,1562728.30203533,90,Unalakleet,Water Distribution,Unalakleet Water Distribution System,"Unalakleet, City of",WD 2,800,203,170,1,Yes,2023/07/31 08:00:00+00
+-821101.945279297,506511.382085757,91,Unalaska,Water Distribution,Unalaska Water Distribution System,"Unalaska, City of",WD 3,4300,602,174,6,No,2023/07/31 08:00:00+00
+329641.524476165,1651455.25649912,92,Eielson AFB,Water Distribution,Eielson Water Distribution System,US Air Force,WD 3,9100,716,142,1,Yes,2023/07/31 08:00:00+00
+403401.069467337,1583732.90025987,93,Fort Greely,Water Distribution,Fort Greely Water Distribution System,"Doyon Utilities, LLC.",WD 1,770,88,34,1,No,2023/07/31 08:00:00+00
+301242.361861717,1666283.73876794,94,Fort Wainwright,Water Distribution,Fort Wainwright Water Distribution System,"Doyon Utilities, LLC.",WD 3,10180,626,153,1,Yes,2023/07/31 08:00:00+00
+95027.5224326542,866747.9369809,95,Kodiak,Water Distribution,USCG Kodiak Water Distribution System,US Coast Guard,WD 1,3150,281,163,2,No,2023/07/31 08:00:00+00
+-101341.337283207,2367854.79997794,96,Utqiagvik,Water Distribution,Barrow Water Distribution System,"Barrow, BUECI",WD 3,4500,1488,58,1,Yes,2023/07/31 08:00:00+00
+409518.872278663,1262298.70131742,97,Valdez,Water Distribution,Valdez Robe River S/D Water Distribution System,"Valdez, City of",WD 1,500,209,291211,1,No,2023/07/31 08:00:00+00
+409518.872278663,1262298.70131742,98,Valdez,Water Distribution,Valdez Southcentral Water Distribution System,"Valdez, City of",WD 1,600,179,291229,2,No,2023/07/31 08:00:00+00
+409518.872278663,1262298.70131742,99,Valdez,Water Distribution,Valdez Water Distribution System,"Valdez, City of",WD 2,3150,1072,298103,1,No,2023/07/31 08:00:00+00
+297451.122482249,1667250.52584127,100,Fairbanks,Water Distribution,Valley Water Company Water Distribution System,Valley Water Company,WD 2,900,290,310926,3,Yes,2023/07/31 08:00:00+00
+219654.775923324,1255116.01268035,101,Anchorage,Water Distribution,Valli Vue S/D Water Distribution System,Valli Vue S/D,WD 1,794,227,210605,1,No,2023/07/31 08:00:00+00
+240926.821971153,1297506.21747755,102,Wasilla,Water Distribution,Victoria Estates Water Distribution System,Victoria Estates,WD 1,912,228,224167,1,No,2023/07/31 08:00:00+00
+-227607.668616794,2305095.9767901,103,Wainwright,Water Distribution,Wainwright Water Distribution System,North Slope Borough,WD 2,556,202,125,1,Yes,2023/07/31 08:00:00+00
+240926.821971153,1297506.21747755,104,Wasilla,Water Distribution,Wasilla Spruce Ave. Main Water Distribution System,"Wasilla, City of",WD 3,2544,1771,516,6,No,2023/07/31 08:00:00+00
+1306628.34428561,932518.315928681,105,Wrangell,Water Distribution,Wrangell Water Distribution System,"Wrangell, City of",WD 2,1900,1150,118,3,No,2023/07/31 08:00:00+00
+796588.039603731,1148740.78088062,106,Yakutat,Water Distribution,Yakutat Water Distribution System,"Yakutat, City of",WD 1,634,296,517,1,No,2023/07/31 08:00:00+00

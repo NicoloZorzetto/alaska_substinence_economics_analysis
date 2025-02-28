@@ -1,0 +1,684 @@
+﻿X,Y,OBJECTID,CommunityName,EntityName,DataYear,PCEEligible
+-1537200.80409957,470990.071658981,1,Adak,"TDX Adak Generating, LLC",2011,Yes
+-10519.3318614154,771139.191692125,2,Akhiok,City of Akhiok,2011,No
+-401780.778584857,1237051.63336104,3,Akiachak,Akiachak Native Community (ANC) Electric Company,2011,Yes
+-390087.745779022,1235043.28228904,4,Akiak,City of Akiak,2011,Yes
+-766479.910475392,525927.743350198,5,Akutan,City of Akutan,2011,Yes
+-542392.68206103,1456437.72182411,6,Alakanuk,"Alaska Village Electric Cooperative, Inc",2011,Yes
+57879.5116973947,1844678.29560101,7,Alatna,Alaska Power Company,2011,Yes
+-262308.612461073,1040822.18417894,8,Aleknagik,"Nushagak Electric Cooperative, Incorporated",2011,Yes
+60176.824355894,1845337.73673645,9,Allakaket,Alaska Power Company,2011,Yes
+-168357.796042103,1908076.86269952,10,Ambler,"Alaska Village Electric Cooperative, Inc",2011,Yes
+94894.1751459759,2021732.21131396,11,Anaktuvuk Pass,North Slope Borough Power & Light,2011,Yes
+219654.775923324,1255116.01268035,12,Anchorage,Municipal Light & Power,2011,No
+219654.775923324,1255116.01268035,13,Anchorage,"Chugach Electric Association, Inc.",2011,No
+-477710.913865003,1374361.95588113,14,Andreafsky,"Alaska Village Electric Cooperative, Inc",2011,Yes
+1144736.49530355,1001399.30409643,15,Angoon,"Inside Passage Electric Cooperative, Inc.",2011,Yes
+-292239.010092156,1301035.34428872,16,Aniak,"Aniak Light and Power Company, Inc.",2011,Yes
+-316464.020166387,1423712.40568258,17,Anvik,"Alaska Village Electric Cooperative, Inc",2011,Yes
+354055.304168875,2041227.33626006,18,Arctic Village,Arctic Village,2011,No
+-1366062.6920054,452266.93070329,19,Atka,City of Atka,2011,Yes
+-446969.846134871,1236061.98697927,20,Atmautluak,Atmautluak Joint Utilities,2011,Yes
+-130178.283503762,2281005.01007065,21,Atqasuk,North Slope Borough Power & Light,2011,Yes
+-101340.08517859,2367854.78395269,22,Barrow,Barrow Utilities and Electric Cooperative Inc,2011,No
+295946.081733104,1837251.58905714,23,Beaver,Beaver Joint Utilities,2011,Yes
+-420708.278583235,1225426.14136511,24,Bethel,Bethel Utilities Corporation,2011,Yes
+109496.401507577,1886970.73243223,25,Bettles,Alaska Power Company,2011,Yes
+367734.179577302,1834380.62764397,26,Birch Creek,Birch Creek Village Electric Utilities,2011,No
+-578884.171153793,1762943.25312878,27,Brevig Mission,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-324000.541170265,1797365.1997631,28,Buckland,City of Buckland,2011,Yes
+422843.028275784,1763917.53285218,29,Central,Gold Country Energy,2011,Yes
+454360.989405363,1889974.85638339,30,Chalkyitsik,Chalkyitsik Village,2011,Yes
+-566470.863051303,1173895.33647436,31,Chefornak,Naterkaq Light Plant,2011,Yes
+331739.412198896,1134592.127647,32,Chenega,Native Village of Chenega,2011,Yes
+-611354.424221957,1336742.93808656,33,Chevak,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-272640.696692714,708170.914671806,34,Chignik,City of Chignik,2011,Yes
+-280193.742651678,709704.775156877,35,Chignik Lagoon,Chignik Lagoon Power Utility,2011,Yes
+-294536.616202522,704372.952104132,36,Chignik Lake,"Chignik Lake Electric Utility, Inc.",2011,Yes
+477050.767528564,1432884.56382823,37,Chistochina,Alaska Power Company,2011,Yes
+505210.692464188,1318323.26146793,38,Chitina,"Chitina Electric, Inc.",2011,Yes
+-277207.120872475,1299381.93357958,39,Chuathbaluk,"Middle Kuskokwim Electric Coopertive, Inc.",2011,Yes
+453138.587430948,1797102.49217214,40,Circle,"Circle Electric, LLC",2011,Yes
+-261536.801805181,990939.243875891,41,Clark's Point,Village of Clarks Point,2011,No
+1296627.69138198,875531.322046869,42,Coffman Cove,Alaska Power Company,2011,Yes
+-553098.010157236,613456.142454847,43,Cold Bay,G & K Inc.,2011,Yes
+449342.259478468,1201051.13508385,44,Cordova,"Cordova Electric Cooperative, Inc.",2011,Yes
+1007108.68796088,1181897.71287361,45,Covenant Life,Alaska Power Company,2011,Yes
+1296030.65760968,812250.477347349,46,Craig,Alaska Power Company,2011,Yes
+-215167.684534527,1328137.39160367,47,Crooked Creek,"Middle Kuskokwim Electric Coopertive, Inc.",2011,Yes
+-394885.190734183,1816964.93492238,48,Deering,Ipnatchiaq Electric Company,2011,Yes
+402016.95373835,1589787.53174982,49,Delta Junction,"Golden Valley Electric Association, Inc.",2011,No
+-255124.356889429,1013454.33727143,50,Dillingham,"Nushagak Electric Cooperative, Incorporated",2011,Yes
+-680551.237413938,1832482.86785282,51,Diomede,Diomede Joint Utilities,2011,Yes
+489565.635201638,1557989.91244552,52,Dot Lake,Alaska Power Company,2011,Yes
+490071.142611037,1557800.75447036,53,Dot Lake Village,Alaska Power Company,2011,Yes
+604270.153138677,1705897.93684688,54,Eagle,Alaska Power Company,2011,Yes
+237525.488448193,1267348.44888482,55,Eagle River,"Matanuska Electric Association, Inc.",2011,No
+612762.782281341,1702592.27570171,56,Eagle Village,Alaska Power Company,2011,Yes
+-442312.968289999,1163544.89979583,57,Eek,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-197745.899534609,917108.324736896,58,Egegik,"Egegik Light and Power, Inc.",2011,Yes
+-197055.84612121,1044794.93639563,59,Ekwok,"Alaska Village Electric Cooperative, Inc",2011,Yes
+1022927.27343356,1047160.29761342,60,Elfin Cove,Elfin Cove Utility Commission,2011,Yes
+-394183.886304622,1652848.63040226,61,Elim,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-533862.500488994,1465251.0985118,62,Emmonak,"Alaska Village Electric Cooperative, Inc",2011,Yes
+109597.858504399,1887280.71970875,63,Evansville,Alaska Power Company,2011,Yes
+297451.122482249,1667250.52584127,64,Fairbanks,"Golden Valley Electric Association, Inc.",2011,No
+-602750.752160449,580772.977697475,65,False Pass,City of False Pass,2011,Yes
+389073.564573699,1871099.72992694,66,Fort Yukon,Gwitchyaa Zhee Utility Company,2011,Yes
+-136929.048131091,1645322.79517116,67,Galena,City of Galena,2011,Yes
+-861997.814284141,1650244.02734943,68,Gambell,"Alaska Village Electric Cooperative, Inc",2011,Yes
+439627.705608474,1376652.70899664,69,Glennallen,"Copper Valley Electric Association, Inc.",2011,No
+-431919.643857906,1649447.6365716,70,Golovin,Golovin Power Utilities,2011,Yes
+-431808.216810717,1038370.39728577,71,Goodnews Bay,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-307074.484708072,1451345.5736835,72,Grayling,"Alaska Village Electric Cooperative, Inc",2011,Yes
+1050532.36181576,1080255.03184299,73,Gustavus,"Gustavus Electric, Inc.",2011,Yes
+1041543.03884484,1173102.92775379,74,Haines,Alaska Power Company,2011,Yes
+1041543.03884484,1173102.92775379,75,Haines,"Inside Passage Electric Cooperative, Inc.",2011,Yes
+244851.204268498,1554216.24330167,76,Healy,"Golden Valley Electric Association, Inc.",2011,No
+453029.113472066,1590781.60862323,77,Healy Lake,Alaska Power Company,2011,Yes
+1325892.93821721,822796.348237747,78,Hollis,Alaska Power Company,2011,Yes
+-299104.583730028,1371169.35640814,79,Holy Cross,"Alaska Village Electric Cooperative, Inc",2011,Yes
+138629.431092521,1075412.72159425,80,Homer,Homer Electric Association Inc,2011,No
+1076331.88668661,1052302.38252826,81,Hoonah,"Inside Passage Electric Cooperative, Inc.",2011,Yes
+-637703.69598663,1341749.41966851,82,Hooper Bay,"Alaska Village Electric Cooperative, Inc",2011,Yes
+221714.696270084,1301745.84373663,83,Houston,"Matanuska Electric Association, Inc.",2011,No
+-11727.409237893,1787572.07370767,84,Hughes,Hughes Power & Light,2011,Yes
+-110126.419518891,1751240.80768989,85,Huslia,"Alaska Village Electric Cooperative, Inc",2011,Yes
+1325135.64850376,790122.786706786,86,Hydaburg,Alaska Power Company,2011,Yes
+-107962.714497153,1038397.38657463,87,Igiugig,Igiugig Electric Company,2011,Yes
+-50740.8886460557,1085205.2101001,88,Iliamna,I-N-N Electric Cooperative Inc.,2011,Yes
+1128714.87957736,1089944.96465042,89,Juneau,Alaska Electric Light and Power Company,2011,No
+1198537.96643152,956568.247197351,90,Kake,"Inside Passage Electric Cooperative, Inc.",2011,Yes
+399600.549366245,2270028.55604022,91,Kaktovik,North Slope Borough Power & Light,2011,Yes
+-228052.174361995,1604048.17941984,92,Kaltag,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-26064.7996387458,839943.077749614,93,Karluk,Alutiiq Power Company,2011,Yes
+1338594.06514505,833795.41108672,94,Kasaan,Alaska Power Company,2011,Yes
+-459491.849515607,1241856.61615762,95,Kasigluk,"Alaska Village Electric Cooperative, Inc",2011,Yes
+1390950.75286723,828555.095617095,96,Ketchikan,City of Ketchikan,2011,No
+-281947.629636162,1904401.94665282,97,Kiana,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-529656.810844552,593924.882474006,98,King Cove,City of King Cove,2011,Yes
+-154171.846505468,967957.788887921,99,King Salmon,"Naknek Electric Association, Inc.",2011,Yes
+-556949.242780928,1147348.43634021,100,Kipnuk,Kipnuk Light Plant,2011,Yes
+-447225.791769303,2009807.19340044,101,Kivalina,"Alaska Village Electric Cooperative, Inc",2011,Yes
+1296632.86162785,821637.582139224,102,Klawock,Alaska Power Company,2011,Yes
+1012028.66690744,1184048.99283362,103,Klukwan,"Inside Passage Electric Cooperative, Inc.",2011,Yes
+-126722.685988196,1886093.87198362,104,Kobuk,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-126722.685988196,1886093.87198362,105,Kobuk,Kobuk Valley Electric Company,2011,Yes
+95027.5224326542,866747.9369809,106,Kodiak,"Kodiak Electric Association, Inc.",2011,No
+-42350.9527616402,1049908.85482454,107,Kokhanok,Kokhanok Village,2011,Yes
+-184086.739132799,1086250.01456556,108,Koliganek,New Koliganek Village Council,2011,Yes
+-493156.020425217,1140801.22915914,109,Kongiganak,Puvurnaq Power Company,2011,Yes
+-480768.456775202,1486120.89410419,110,Kotlik,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-377013.715648148,1906544.48611949,111,Kotzebue,"Kotzebue Electric Association, Inc.",2011,Yes
+-338182.669797935,1681583.81082618,112,Koyuk,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-175319.742638924,1662762.26264484,113,Koyukuk,City of Koyukuk,2011,Yes
+-402442.765696949,1225580.36430067,114,Kwethluk,Kwethluk Incorporated,2011,Yes
+-509341.421585239,1133719.63178881,115,Kwigillingok,Kwig Power Company,2011,Yes
+1110.1843822052,837018.823366526,116,Larsen Bay,City of Larsen Bay,2011,Yes
+-163064.943324316,1016557.94380798,117,Levelock,"Levelock Electric Cooperative, Inc.",2011,Yes
+-76595.5868569749,1264712.55935681,118,Lime Village,Lime Village Electric Cooperative,2011,Yes
+-76595.5868569749,1264712.55935681,119,Lime Village,Lime Village Electric Cooperative,2011,Yes
+-337064.437875804,1297603.52884566,120,Lower Kalskag,"Alaska Village Electric Cooperative, Inc",2011,Yes
+158600.182562796,1674612.23033107,121,Manley Hot Springs,TDX Manley Generating LLC,2011,Yes
+-289403.787693261,1009209.22031295,122,Manokotak,Manokotak Power Company,2011,Yes
+-422939.120937902,1348502.57937497,123,Marshall,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-80396.1108252345,1443158.11815246,124,McGrath,McGrath Light & Power Co.,2011,Yes
+-666097.80139643,1216835.65731049,125,Mekoryuk,"Alaska Village Electric Cooperative, Inc",2011,Yes
+514789.763027999,1479498.63086065,126,Mentasta Lake,Alaska Power Company,2011,Yes
+1403405.22448079,807389.176039656,127,Metlakatla,Metlakatla Power & Light,2011,No
+218083.07061332,1695656.59737064,128,Minto,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-504640.533465355,1383006.48491385,129,Mountain Village,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-174279.43217255,974059.91252268,130,Naknek,"Naknek Electric Association, Inc.",2011,Yes
+-432827.103657056,1215958.46314431,131,Napakiak,Napakiak Ircinraq Power Company,2011,Yes
+-420788.280794596,1216092.28363176,132,Napaskiak,Napaskiak Electric Utility,2011,Yes
+1279440.82446425,852898.63754349,133,Naukati Bay,Alaska Power Company,2011,Yes
+-447900.339245922,689960.464606835,134,Nelson Lagoon,"Nelson Lagoon Electrical Cooperative, Inc.",2011,Yes
+-187051.232425995,1055625.0881875,135,New Stuyahok,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-50158.9487624714,1081425.19631835,136,Newhalen,I-N-N Electric Cooperative Inc.,2011,Yes
+-571660.995860192,1262920.03622587,137,Newtok,Ungusraq Power Company,2011,Yes
+-585242.257059794,1213354.10165248,138,Nightmute,"Alaska Village Electric Cooperative, Inc",2011,Yes
+146878.469735024,1197439.92672297,139,Nikiski,Homer Electric Association Inc,2011,No
+-18952.5580286519,1449357.21192392,140,Nikolai,City of Nikolai,2011,Yes
+-993846.955920641,436840.75156824,141,Nikolski,Umnak Power Company,2011,Yes
+-384157.774716963,1983045.85661991,142,Noatak,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-545130.115627811,1662011.78006188,143,Nome,Nome Joint Utility System,2011,Yes
+-47715.5850566393,1109006.41072581,144,Nondalton,I-N-N Electric Cooperative Inc.,2011,Yes
+-310203.95042872,1891560.16964191,145,Noorvik,"Alaska Village Electric Cooperative, Inc",2011,Yes
+315855.959761862,1659546.0701719,146,North Pole,"Golden Valley Electric Association, Inc.",2011,No
+607202.995889011,1498808.08882307,147,Northway,Alaska Power Company,2011,Yes
+612876.26791444,1505401.73313266,148,Northway Junction,Alaska Power Company,2011,Yes
+605919.0008297,1500893.72891383,149,Northway Village,Alaska Power Company,2011,Yes
+115434.355028723,2251263.44261842,150,Nuiqsut,North Slope Borough Power & Light,2011,Yes
+-195453.203694237,1646254.07648895,151,Nulato,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-554523.913632872,1440759.94998111,152,Nunam Iqua,Nunam Iqua Electric Company,2011,Yes
+-456125.054896778,1241722.08129476,153,Nunapitchuk,"Alaska Village Electric Cooperative, Inc",2011,Yes
+43179.509619964,801115.998141873,154,Old Harbor,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-421581.595860075,1217808.67340489,155,Oscarville,Bethel Utilities Corporation,2011,Yes
+88385.3853077032,881147.13012034,156,Ouzinkie,City of Ouzinkie,2011,Yes
+258015.620438038,1300696.69892349,157,Palmer,"Matanuska Electric Association, Inc.",2011,No
+-5569.10746326236,1088614.32857205,158,Pedro Bay,Pedro Bay Village,2011,Yes
+1036362.75188977,1023817.93801456,159,Pelican,Pelican Utility Company,2011,Yes
+-320960.031211704,668095.588478032,160,Perryville,Native Village of Perryville,2011,Yes
+1261271.08419403,957469.206997323,161,Petersburg,City of Ketchikan,2011,No
+1261271.08419403,957469.206997323,162,Petersburg,Petersburg Borough,2011,No
+-213420.916165604,845809.064475104,163,Pilot Point,Pilot Point Electric Utility,2011,Yes
+-463440.278725839,1359992.70645285,164,Pilot Station,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-482902.084484234,1373351.25797421,165,Pitkas Point,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-446428.791068836,1027721.60972818,166,Platinum,City of Platinum,2011,No
+-526202.60112902,2093518.87211088,167,Point Hope,North Slope Borough Power & Light,2011,Yes
+-352627.094869032,2220589.19246845,168,Point Lay,North Slope Borough Power & Light,2011,Yes
+-18128.321651304,1134258.52930023,169,Port Alsworth,"Tanalian Electric Cooperative, Inc.",2011,Yes
+-280398.794506824,779012.636349441,170,Port Heiden,City of Port Heiden,2011,Yes
+-441451.852918794,1110782.82189395,171,Quinhagak,"Alaska Village Electric Cooperative, Inc",2011,Yes
+177265.835307035,1732264.22705703,172,Rampart,Rampart Village,2011,No
+-175287.099591471,1316026.17556781,173,Red Devil,"Middle Kuskokwim Electric Coopertive, Inc.",2011,Yes
+-70886.7990080763,1642768.92037799,174,Ruby,City of Ruby,2011,Yes
+-384325.307776448,1333013.66724658,175,Russian Mission,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-944349.868773236,843619.420781122,176,Saint George,City of Saint George,2011,Yes
+-476820.244012596,1374720.1165265,177,Saint Mary's,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-398870.645006686,1525392.61226927,178,Saint Michael,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-974185.249990874,910524.195606546,179,Saint Paul,City of Saint Paul,2011,Yes
+-411466.861134354,612219.93928279,180,Sand Point,TDX Corporation,2011,Yes
+-805515.136213651,1625678.78277187,181,Savoonga,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-604790.129936927,1371265.24459968,182,Scammon Bay,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-267001.161616563,1861743.41404769,183,Selawik,"Alaska Village Electric Cooperative, Inc",2011,Yes
+128947.580591873,1051951.17416714,184,Seldovia,Homer Electric Association Inc,2011,No
+252540.636570125,1132499.53625932,185,Seward,City of Seward,2011,No
+-282383.760555465,1421013.58135403,186,Shageluk,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-346517.325479851,1617843.76690688,187,Shaktoolik,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-541048.640165177,1860130.42371255,188,Shishmaref,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-138064.811931058,1884423.58186544,189,Shungnak,"Alaska Village Electric Cooperative, Inc",2011,Yes
+1115221.96070411,940259.193283325,190,Sitka,City and Borough of Sitka,2011,No
+1042115.23995418,1199030.95630824,191,Skagway,Alaska Power Company,2011,Yes
+1042115.23995418,1199030.95630824,192,Skagway,"Inside Passage Electric Cooperative, Inc.",2011,Yes
+509907.186959205,1453550.80144447,193,Slana,Alaska Power Company,2011,Yes
+-167084.821254186,1306713.95158893,194,Sleetmute,"Middle Kuskokwim Electric Coopertive, Inc.",2011,Yes
+-173605.947377928,972356.745251087,195,South Naknek,"Naknek Electric Association, Inc.",2011,Yes
+-410655.966695141,1531965.84908907,196,Stebbins,"Alaska Village Electric Cooperative, Inc",2011,Yes
+223409.289170116,1791220.15498526,197,Stevens Village,Native Village of Stevens,2011,No
+-136053.465971829,1314823.93224772,198,Stony River,"Middle Kuskokwim Electric Coopertive, Inc.",2011,Yes
+-104230.160828436,1448041.57850457,199,Takotna,Takotna Community Assn.,2011,Yes
+200806.566477601,1377989.09479474,200,Talkeetna,"Matanuska Electric Association, Inc.",2011,No
+528914.501725091,1532292.0107361,201,Tanacross,Alaska Power Company,2011,Yes
+243842.042777831,1300864.17626285,202,Tanaina,"Matanuska Electric Association, Inc.",2011,No
+90121.6496562936,1691441.77576932,203,Tanana,"Tanana Power Company, Inc.",2011,Yes
+395313.728565778,1231228.57346929,204,Tatitlek,Native Village of Tatitlek,2011,Yes
+-574543.17179758,1754008.50735403,205,Teller,"Alaska Village Electric Cooperative, Inc",2011,Yes
+1098843.59174464,1020605.81594615,206,Tenakee Springs,City of Tenakee Springs,2011,Yes
+574650.660762974,1512987.73354109,207,Tetlin,Alaska Power Company,2011,Yes
+1326319.36788725,846815.094827237,208,Thorne Bay,Alaska Power Company,2011,Yes
+-364120.520402744,1024741.77608156,209,Togiak,"Alaska Village Electric Cooperative, Inc",2011,Yes
+547792.116039577,1530825.07227062,210,Tok,Alaska Power Company,2011,Yes
+-604707.768126036,1222202.94569942,211,Toksook Bay,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-373148.240750568,1254734.01287349,212,Tuluksak,Tuluksak Traditional Power Utility,2011,Yes
+-475945.642041781,1181762.44420864,213,Tuntutuliak,Tuntutuliak Community Service Association,2011,Yes
+-611413.525021059,1229766.47294829,214,Tununak,"Alaska Village Electric Cooperative, Inc",2011,Yes
+-358378.418504991,1025834.33468098,215,Twin Hills,Twin Hills Village,2011,Yes
+-332652.664299918,1562728.30203533,216,Unalakleet,"Unalakleet Valley Electric Cooperative, Inc.",2011,Yes
+-821101.945279297,506511.382085757,217,Unalaska,"Unalaska Electric Association, Inc.",2011,Yes
+-821101.945279297,506511.382085757,218,Unalaska,City of Unalaska,2011,Yes
+-334222.042316608,1300232.52489235,219,Upper Kalskag,"Alaska Village Electric Cooperative, Inc",2011,Yes
+409518.872278663,1262298.70131742,220,Valdez,"Copper Valley Electric Association, Inc.",2011,No
+331181.261595623,1914361.61081032,221,Venetie,Village of Venetie,2011,Yes
+-227607.668616794,2305095.9767901,222,Wainwright,North Slope Borough Power & Light,2011,Yes
+-645492.756304416,1807658.53281773,223,Wales,"Alaska Village Electric Cooperative, Inc",2011,Yes
+240926.821971153,1297506.21747755,224,Wasilla,"Matanuska Electric Association, Inc.",2011,No
+1275681.25090895,880764.434072811,225,Whale Pass,Alaska Power Company,2011,Yes
+-447479.312091524,1667267.50587921,226,White Mountain,City of White Mountain,2011,Yes
+208090.297793577,1313544.47508187,227,Willow,"Matanuska Electric Association, Inc.",2011,No
+1306628.34428561,932518.315928681,228,Wrangell,City and Borough of Wrangell,2011,No
+1306628.34428561,932518.315928681,229,Wrangell,City of Ketchikan,2011,No
+796588.039603731,1148740.78088062,230,Yakutat,City and Borough of Yakutat,2011,Yes
+-1537200.80409957,470990.071658981,231,Adak,"TDX Adak Generating, LLC",2014,Yes
+-10519.3318614154,771139.191692125,232,Akhiok,City of Akhiok,2014,Yes
+-401780.778584857,1237051.63336104,233,Akiachak,Akiachak Native Community (ANC) Electric Company,2014,No
+-390087.745779022,1235043.28228904,234,Akiak,City of Akiak,2014,Yes
+-766479.910475392,525927.743350198,235,Akutan,City of Akutan,2014,Yes
+-542392.68206103,1456437.72182411,236,Alakanuk,"Alaska Village Electric Cooperative, Inc",2014,Yes
+57879.5116973947,1844678.29560101,237,Alatna,Alaska Power Company,2014,Yes
+-262308.612461073,1040822.18417894,238,Aleknagik,"Nushagak Electric Cooperative, Incorporated",2014,Yes
+60176.824355894,1845337.73673645,239,Allakaket,Alaska Power Company,2014,Yes
+-168357.796042103,1908076.86269952,240,Ambler,"Alaska Village Electric Cooperative, Inc",2014,Yes
+94894.1751459759,2021732.21131396,241,Anaktuvuk Pass,North Slope Borough Power & Light,2014,Yes
+219654.775923324,1255116.01268035,242,Anchorage,Municipal Light & Power,2014,No
+219654.775923324,1255116.01268035,243,Anchorage,"Chugach Electric Association, Inc.",2014,No
+-477710.913865003,1374361.95588113,244,Andreafsky,"Alaska Village Electric Cooperative, Inc",2014,Yes
+1144736.49530355,1001399.30409643,245,Angoon,"Inside Passage Electric Cooperative, Inc.",2014,Yes
+-292239.010092156,1301035.34428872,246,Aniak,"Aniak Light and Power Company, Inc.",2014,Yes
+-316464.020166387,1423712.40568258,247,Anvik,"Alaska Village Electric Cooperative, Inc",2014,Yes
+354055.304168875,2041227.33626006,248,Arctic Village,Arctic Village,2014,Yes
+-1366062.6920054,452266.93070329,249,Atka,City of Atka,2014,Yes
+-446969.846134871,1236061.98697927,250,Atmautluak,Atmautluak Joint Utilities,2014,Yes
+-130178.283503762,2281005.01007065,251,Atqasuk,North Slope Borough Power & Light,2014,Yes
+-101340.08517859,2367854.78395269,252,Barrow,Barrow Utilities and Electric Cooperative Inc,2014,No
+295946.081733104,1837251.58905714,253,Beaver,Beaver Joint Utilities,2014,Yes
+-420708.278583235,1225426.14136511,254,Bethel,Bethel Utilities Corporation,2014,No
+109496.401507577,1886970.73243223,255,Bettles,Alaska Power Company,2014,Yes
+367734.179577302,1834380.62764397,256,Birch Creek,Birch Creek Village Electric Utilities,2014,Yes
+-578884.171153793,1762943.25312878,257,Brevig Mission,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-324000.541170265,1797365.1997631,258,Buckland,City of Buckland,2014,Yes
+422843.028275784,1763917.53285218,259,Central,"Central Electric, Inc.",2014,Yes
+454360.989405363,1889974.85638339,260,Chalkyitsik,Chalkyitsik Village,2014,No
+-566470.863051303,1173895.33647436,261,Chefornak,Naterkaq Light Plant,2014,Yes
+331739.412198896,1134592.127647,262,Chenega,Native Village of Chenega,2014,Yes
+-611354.424221957,1336742.93808656,263,Chevak,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-272640.696692714,708170.914671806,264,Chignik,City of Chignik,2014,Yes
+-280193.742651678,709704.775156877,265,Chignik Lagoon,Chignik Lagoon Power Utility,2014,Yes
+-294536.616202522,704372.952104132,266,Chignik Lake,"Chignik Lake Electric Utility, Inc.",2014,Yes
+477050.767528564,1432884.56382823,267,Chistochina,Alaska Power Company,2014,Yes
+505210.692464188,1318323.26146793,268,Chitina,"Chitina Electric, Inc.",2014,Yes
+-277207.120872475,1299381.93357958,269,Chuathbaluk,"Middle Kuskokwim Electric Coopertive, Inc.",2014,Yes
+453138.587430948,1797102.49217214,270,Circle,"Circle Electric, LLC",2014,Yes
+-261536.801805181,990939.243875891,271,Clark's Point,Village of Clarks Point,2014,No
+1296627.69138198,875531.322046869,272,Coffman Cove,Alaska Power Company,2014,Yes
+-553098.010157236,613456.142454847,273,Cold Bay,G & K Inc.,2014,Yes
+449342.259478468,1201051.13508385,274,Cordova,"Cordova Electric Cooperative, Inc.",2014,Yes
+1007108.68796088,1181897.71287361,275,Covenant Life,Alaska Power Company,2014,Yes
+1296030.65760968,812250.477347349,276,Craig,Alaska Power Company,2014,Yes
+-215167.684534527,1328137.39160367,277,Crooked Creek,"Middle Kuskokwim Electric Coopertive, Inc.",2014,Yes
+-394885.190734183,1816964.93492238,278,Deering,Ipnatchiaq Electric Company,2014,Yes
+402016.95373835,1589787.53174982,279,Delta Junction,"Golden Valley Electric Association, Inc.",2014,No
+-255124.356889429,1013454.33727143,280,Dillingham,"Nushagak Electric Cooperative, Incorporated",2014,Yes
+-680551.237413938,1832482.86785282,281,Diomede,Diomede Joint Utilities,2014,Yes
+489565.635201638,1557989.91244552,282,Dot Lake,Alaska Power Company,2014,Yes
+490071.142611037,1557800.75447036,283,Dot Lake Village,Alaska Power Company,2014,Yes
+604270.153138677,1705897.93684688,284,Eagle,Alaska Power Company,2014,Yes
+237525.488448193,1267348.44888482,285,Eagle River,"Matanuska Electric Association, Inc.",2014,No
+612762.782281341,1702592.27570171,286,Eagle Village,Alaska Power Company,2014,Yes
+-442312.968289999,1163544.89979583,287,Eek,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-197745.899534609,917108.324736896,288,Egegik,City of Egegik,2014,No
+-197055.84612121,1044794.93639563,289,Ekwok,"Alaska Village Electric Cooperative, Inc",2014,Yes
+1022927.27343356,1047160.29761342,290,Elfin Cove,Elfin Cove Utility Commission,2014,Yes
+-394183.886304622,1652848.63040226,291,Elim,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-533862.500488994,1465251.0985118,292,Emmonak,"Alaska Village Electric Cooperative, Inc",2014,Yes
+109597.858504399,1887280.71970875,293,Evansville,Alaska Power Company,2014,Yes
+297451.122482249,1667250.52584127,294,Fairbanks,"Golden Valley Electric Association, Inc.",2014,No
+-602750.752160449,580772.977697475,295,False Pass,City of False Pass,2014,No
+389073.564573699,1871099.72992694,296,Fort Yukon,Gwitchyaa Zhee Utility Company,2014,Yes
+-136929.048131091,1645322.79517116,297,Galena,City of Galena,2014,Yes
+-861997.814284141,1650244.02734943,298,Gambell,"Alaska Village Electric Cooperative, Inc",2014,Yes
+439627.705608474,1376652.70899664,299,Glennallen,"Copper Valley Electric Association, Inc.",2014,No
+-431919.643857906,1649447.6365716,300,Golovin,Golovin Power Utilities,2014,Yes
+-431808.216810717,1038370.39728577,301,Goodnews Bay,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-307074.484708072,1451345.5736835,302,Grayling,"Alaska Village Electric Cooperative, Inc",2014,Yes
+1050532.36181576,1080255.03184299,303,Gustavus,"Gustavus Electric, Inc.",2014,Yes
+1041543.03884484,1173102.92775379,304,Haines,Alaska Power Company,2014,Yes
+1041543.03884484,1173102.92775379,305,Haines,"Inside Passage Electric Cooperative, Inc.",2014,Yes
+244851.204268498,1554216.24330167,306,Healy,"Golden Valley Electric Association, Inc.",2014,No
+453029.113472066,1590781.60862323,307,Healy Lake,Alaska Power Company,2014,Yes
+1325892.93821721,822796.348237747,308,Hollis,Alaska Power Company,2014,Yes
+-299104.583730028,1371169.35640814,309,Holy Cross,"Alaska Village Electric Cooperative, Inc",2014,Yes
+138629.431092521,1075412.72159425,310,Homer,Homer Electric Association Inc,2014,No
+1076331.88668661,1052302.38252826,311,Hoonah,"Inside Passage Electric Cooperative, Inc.",2014,Yes
+-637703.69598663,1341749.41966851,312,Hooper Bay,"Alaska Village Electric Cooperative, Inc",2014,Yes
+221714.696270084,1301745.84373663,313,Houston,"Matanuska Electric Association, Inc.",2014,No
+-11727.409237893,1787572.07370767,314,Hughes,Hughes Power & Light,2014,Yes
+-110126.419518891,1751240.80768989,315,Huslia,"Alaska Village Electric Cooperative, Inc",2014,Yes
+1325135.64850376,790122.786706786,316,Hydaburg,Alaska Power Company,2014,Yes
+-107962.714497153,1038397.38657463,317,Igiugig,Igiugig Electric Company,2014,Yes
+-50740.8886460557,1085205.2101001,318,Iliamna,I-N-N Electric Cooperative Inc.,2014,Yes
+1128714.87957736,1089944.96465042,319,Juneau,Alaska Electric Light and Power Company,2014,No
+1198537.96643152,956568.247197351,320,Kake,"Inside Passage Electric Cooperative, Inc.",2014,Yes
+399600.549366245,2270028.55604022,321,Kaktovik,North Slope Borough Power & Light,2014,Yes
+-228052.174361995,1604048.17941984,322,Kaltag,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-26064.7996387458,839943.077749614,323,Karluk,Alutiiq Power Company,2014,No
+1338594.06514505,833795.41108672,324,Kasaan,Alaska Power Company,2014,Yes
+-459491.849515607,1241856.61615762,325,Kasigluk,"Alaska Village Electric Cooperative, Inc",2014,Yes
+1390950.75286723,828555.095617095,326,Ketchikan,City of Ketchikan,2014,No
+-281947.629636162,1904401.94665282,327,Kiana,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-529656.810844552,593924.882474006,328,King Cove,City of King Cove,2014,Yes
+-154171.846505468,967957.788887921,329,King Salmon,"Naknek Electric Association, Inc.",2014,Yes
+-556949.242780928,1147348.43634021,330,Kipnuk,Kipnuk Light Plant,2014,Yes
+-447225.791769303,2009807.19340044,331,Kivalina,"Alaska Village Electric Cooperative, Inc",2014,Yes
+1296632.86162785,821637.582139224,332,Klawock,Alaska Power Company,2014,Yes
+1012028.66690744,1184048.99283362,333,Klukwan,"Inside Passage Electric Cooperative, Inc.",2014,Yes
+-126722.685988196,1886093.87198362,334,Kobuk,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-126722.685988196,1886093.87198362,335,Kobuk,Kobuk Valley Electric Company,2014,No
+95027.5224326542,866747.9369809,336,Kodiak,"Kodiak Electric Association, Inc.",2014,No
+-42350.9527616402,1049908.85482454,337,Kokhanok,Kokhanok Village,2014,Yes
+-184086.739132799,1086250.01456556,338,Koliganek,New Koliganek Village Council,2014,Yes
+-493156.020425217,1140801.22915914,339,Kongiganak,Puvurnaq Power Company,2014,Yes
+-480768.456775202,1486120.89410419,340,Kotlik,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-377013.715648148,1906544.48611949,341,Kotzebue,"Kotzebue Electric Association, Inc.",2014,Yes
+-338182.669797935,1681583.81082618,342,Koyuk,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-175319.742638924,1662762.26264484,343,Koyukuk,City of Koyukuk,2014,Yes
+-402442.765696949,1225580.36430067,344,Kwethluk,Kwethluk Incorporated,2014,Yes
+-509341.421585239,1133719.63178881,345,Kwigillingok,Kwig Power Company,2014,Yes
+1110.1843822052,837018.823366526,346,Larsen Bay,City of Larsen Bay,2014,Yes
+-163064.943324316,1016557.94380798,347,Levelock,"Levelock Electric Cooperative, Inc.",2014,Yes
+-76595.5868569749,1264712.55935681,348,Lime Village,Lime Village Electric Cooperative,2014,Yes
+-76595.5868569749,1264712.55935681,349,Lime Village,Lime Village Electric Cooperative,2014,No
+-337064.437875804,1297603.52884566,350,Lower Kalskag,"Alaska Village Electric Cooperative, Inc",2014,Yes
+158600.182562796,1674612.23033107,351,Manley Hot Springs,TDX Manley Generating LLC,2014,Yes
+-289403.787693261,1009209.22031295,352,Manokotak,Manokotak Power Company,2014,Yes
+-422939.120937902,1348502.57937497,353,Marshall,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-80396.1108252345,1443158.11815246,354,McGrath,McGrath Light & Power Co.,2014,Yes
+-666097.80139643,1216835.65731049,355,Mekoryuk,"Alaska Village Electric Cooperative, Inc",2014,Yes
+514789.763027999,1479498.63086065,356,Mentasta Lake,Alaska Power Company,2014,Yes
+1403405.22448079,807389.176039656,357,Metlakatla,Metlakatla Power & Light,2014,No
+218083.07061332,1695656.59737064,358,Minto,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-504640.533465355,1383006.48491385,359,Mountain Village,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-174279.43217255,974059.91252268,360,Naknek,"Naknek Electric Association, Inc.",2014,Yes
+-432827.103657056,1215958.46314431,361,Napakiak,Napakiak Ircinraq Power Company,2014,Yes
+-420788.280794596,1216092.28363176,362,Napaskiak,Napaskiak Electric Utility,2014,Yes
+1279440.82446425,852898.63754349,363,Naukati Bay,Alaska Power Company,2014,Yes
+-447900.339245922,689960.464606835,364,Nelson Lagoon,"Nelson Lagoon Electrical Cooperative, Inc.",2014,Yes
+-187051.232425995,1055625.0881875,365,New Stuyahok,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-50158.9487624714,1081425.19631835,366,Newhalen,I-N-N Electric Cooperative Inc.,2014,Yes
+-571660.995860192,1262920.03622587,367,Newtok,Ungusraq Power Company,2014,Yes
+-585242.257059794,1213354.10165248,368,Nightmute,"Alaska Village Electric Cooperative, Inc",2014,Yes
+146878.469735024,1197439.92672297,369,Nikiski,Homer Electric Association Inc,2014,No
+-18952.5580286519,1449357.21192392,370,Nikolai,City of Nikolai,2014,No
+-993846.955920641,436840.75156824,371,Nikolski,Umnak Power Company,2014,Yes
+-384157.774716963,1983045.85661991,372,Noatak,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-545130.115627811,1662011.78006188,373,Nome,Nome Joint Utility System,2014,Yes
+-47715.5850566393,1109006.41072581,374,Nondalton,I-N-N Electric Cooperative Inc.,2014,Yes
+-310203.95042872,1891560.16964191,375,Noorvik,"Alaska Village Electric Cooperative, Inc",2014,Yes
+315855.959761862,1659546.0701719,376,North Pole,"Golden Valley Electric Association, Inc.",2014,No
+607202.995889011,1498808.08882307,377,Northway,Alaska Power Company,2014,Yes
+612876.26791444,1505401.73313266,378,Northway Junction,Alaska Power Company,2014,Yes
+605919.0008297,1500893.72891383,379,Northway Village,Alaska Power Company,2014,Yes
+115434.355028723,2251263.44261842,380,Nuiqsut,North Slope Borough Power & Light,2014,Yes
+-195453.203694237,1646254.07648895,381,Nulato,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-554523.913632872,1440759.94998111,382,Nunam Iqua,Nunam Iqua Electric Company,2014,Yes
+-456125.054896778,1241722.08129476,383,Nunapitchuk,"Alaska Village Electric Cooperative, Inc",2014,Yes
+43179.509619964,801115.998141873,384,Old Harbor,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-421581.595860075,1217808.67340489,385,Oscarville,Bethel Utilities Corporation,2014,No
+88385.3853077032,881147.13012034,386,Ouzinkie,City of Ouzinkie,2014,Yes
+258015.620438038,1300696.69892349,387,Palmer,"Matanuska Electric Association, Inc.",2014,No
+-5569.10746326236,1088614.32857205,388,Pedro Bay,Pedro Bay Village,2014,Yes
+1036362.75188977,1023817.93801456,389,Pelican,Pelican Utility Company,2014,Yes
+-320960.031211704,668095.588478032,390,Perryville,Native Village of Perryville,2014,No
+1261271.08419403,957469.206997323,391,Petersburg,City of Ketchikan,2014,No
+1261271.08419403,957469.206997323,392,Petersburg,Petersburg Borough,2014,No
+-213420.916165604,845809.064475104,393,Pilot Point,Pilot Point Electric Utility,2014,Yes
+-463440.278725839,1359992.70645285,394,Pilot Station,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-482902.084484234,1373351.25797421,395,Pitkas Point,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-446428.791068836,1027721.60972818,396,Platinum,City of Platinum,2014,Yes
+-526202.60112902,2093518.87211088,397,Point Hope,North Slope Borough Power & Light,2014,Yes
+-352627.094869032,2220589.19246845,398,Point Lay,North Slope Borough Power & Light,2014,Yes
+-18128.321651304,1134258.52930023,399,Port Alsworth,"Tanalian Electric Cooperative, Inc.",2014,Yes
+-280398.794506824,779012.636349441,400,Port Heiden,City of Port Heiden,2014,Yes
+-441451.852918794,1110782.82189395,401,Quinhagak,"Alaska Village Electric Cooperative, Inc",2014,Yes
+177265.835307035,1732264.22705703,402,Rampart,Rampart Village,2014,Yes
+-175287.099591471,1316026.17556781,403,Red Devil,"Middle Kuskokwim Electric Coopertive, Inc.",2014,Yes
+-70886.7990080763,1642768.92037799,404,Ruby,City of Ruby,2014,Yes
+-384325.307776448,1333013.66724658,405,Russian Mission,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-944349.868773236,843619.420781122,406,Saint George,City of Saint George,2014,Yes
+-476820.244012596,1374720.1165265,407,Saint Mary's,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-398870.645006686,1525392.61226927,408,Saint Michael,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-974185.249990874,910524.195606546,409,Saint Paul,City of Saint Paul,2014,Yes
+-411466.861134354,612219.93928279,410,Sand Point,TDX Corporation,2014,Yes
+-805515.136213651,1625678.78277187,411,Savoonga,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-604790.129936927,1371265.24459968,412,Scammon Bay,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-267001.161616563,1861743.41404769,413,Selawik,"Alaska Village Electric Cooperative, Inc",2014,Yes
+128947.580591873,1051951.17416714,414,Seldovia,Homer Electric Association Inc,2014,No
+252540.636570125,1132499.53625932,415,Seward,City of Seward,2014,No
+-282383.760555465,1421013.58135403,416,Shageluk,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-346517.325479851,1617843.76690688,417,Shaktoolik,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-541048.640165177,1860130.42371255,418,Shishmaref,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-138064.811931058,1884423.58186544,419,Shungnak,"Alaska Village Electric Cooperative, Inc",2014,Yes
+1115221.96070411,940259.193283325,420,Sitka,City and Borough of Sitka,2014,No
+1042115.23995418,1199030.95630824,421,Skagway,Alaska Power Company,2014,Yes
+1042115.23995418,1199030.95630824,422,Skagway,"Inside Passage Electric Cooperative, Inc.",2014,Yes
+509907.186959205,1453550.80144447,423,Slana,Alaska Power Company,2014,Yes
+-167084.821254186,1306713.95158893,424,Sleetmute,"Middle Kuskokwim Electric Coopertive, Inc.",2014,Yes
+-173605.947377928,972356.745251087,425,South Naknek,"Naknek Electric Association, Inc.",2014,Yes
+-410655.966695141,1531965.84908907,426,Stebbins,"Alaska Village Electric Cooperative, Inc",2014,Yes
+223409.289170116,1791220.15498526,427,Stevens Village,Native Village of Stevens,2014,No
+-136053.465971829,1314823.93224772,428,Stony River,"Middle Kuskokwim Electric Coopertive, Inc.",2014,Yes
+-104230.160828436,1448041.57850457,429,Takotna,Takotna Community Assn.,2014,Yes
+200806.566477601,1377989.09479474,430,Talkeetna,"Matanuska Electric Association, Inc.",2014,No
+528914.501725091,1532292.0107361,431,Tanacross,Alaska Power Company,2014,Yes
+243842.042777831,1300864.17626285,432,Tanaina,"Matanuska Electric Association, Inc.",2014,No
+90121.6496562936,1691441.77576932,433,Tanana,"Tanana Power Company, Inc.",2014,Yes
+395313.728565778,1231228.57346929,434,Tatitlek,Native Village of Tatitlek,2014,Yes
+-574543.17179758,1754008.50735403,435,Teller,"Alaska Village Electric Cooperative, Inc",2014,Yes
+1098843.59174464,1020605.81594615,436,Tenakee Springs,City of Tenakee Springs,2014,Yes
+574650.660762974,1512987.73354109,437,Tetlin,Alaska Power Company,2014,Yes
+1326319.36788725,846815.094827237,438,Thorne Bay,Alaska Power Company,2014,Yes
+-364120.520402744,1024741.77608156,439,Togiak,"Alaska Village Electric Cooperative, Inc",2014,Yes
+547792.116039577,1530825.07227062,440,Tok,Alaska Power Company,2014,Yes
+-604707.768126036,1222202.94569942,441,Toksook Bay,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-373148.240750568,1254734.01287349,442,Tuluksak,Tuluksak Traditional Power Utility,2014,Yes
+-475945.642041781,1181762.44420864,443,Tuntutuliak,Tuntutuliak Community Service Association,2014,Yes
+-611413.525021059,1229766.47294829,444,Tununak,"Alaska Village Electric Cooperative, Inc",2014,Yes
+-358378.418504991,1025834.33468098,445,Twin Hills,Twin Hills Village,2014,Yes
+-332652.664299918,1562728.30203533,446,Unalakleet,"Unalakleet Valley Electric Cooperative, Inc.",2014,Yes
+-821101.945279297,506511.382085757,447,Unalaska,"Unalaska Electric Association, Inc.",2014,Yes
+-821101.945279297,506511.382085757,448,Unalaska,City of Unalaska,2014,No
+-334222.042316608,1300232.52489235,449,Upper Kalskag,"Alaska Village Electric Cooperative, Inc",2014,Yes
+409518.872278663,1262298.70131742,450,Valdez,"Copper Valley Electric Association, Inc.",2014,No
+331181.261595623,1914361.61081032,451,Venetie,Village of Venetie,2014,Yes
+-227607.668616794,2305095.9767901,452,Wainwright,North Slope Borough Power & Light,2014,Yes
+-645492.756304416,1807658.53281773,453,Wales,"Alaska Village Electric Cooperative, Inc",2014,Yes
+240926.821971153,1297506.21747755,454,Wasilla,"Matanuska Electric Association, Inc.",2014,No
+1275681.25090895,880764.434072811,455,Whale Pass,Alaska Power Company,2014,Yes
+-447479.312091524,1667267.50587921,456,White Mountain,City of White Mountain,2014,Yes
+208090.297793577,1313544.47508187,457,Willow,"Matanuska Electric Association, Inc.",2014,No
+1306628.34428561,932518.315928681,458,Wrangell,City and Borough of Wrangell,2014,No
+1306628.34428561,932518.315928681,459,Wrangell,City of Ketchikan,2014,No
+796588.039603731,1148740.78088062,460,Yakutat,City and Borough of Yakutat,2014,Yes
+1128714.87957736,1089944.96465042,461,Juneau,Alaska Electric Light and Power Company,2020,No
+-553098.010157236,613456.142454847,462,Cold Bay,G & K Inc.,2020,Yes
+-110126.419518891,1751240.80768989,463,Huslia,"Alaska Village Electric Cooperative, Inc",2020,Yes
+612762.782281341,1702592.27570171,464,Eagle Village,Alaska Power Company,2020,Yes
+1042115.23995418,1199030.95630824,465,Skagway,Alaska Power Company,2020,Yes
+-398870.645006686,1525392.61226927,466,Saint Michael,"Alaska Village Electric Cooperative, Inc",2020,Yes
+796588.039603731,1148740.78088062,467,Yakutat,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-821101.945279297,506511.382085757,468,Unalaska,City of Unalaska,2020,Yes
+-604790.129936927,1371265.24459968,469,Scammon Bay,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-574543.17179758,1754008.50735403,470,Teller,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-42350.9527616402,1049908.85482454,471,Kokhanok,Kokhanok Village Council,2020,Yes
+-944349.868773236,843619.420781122,472,Saint George,City of Saint George,2020,Yes
+-394885.190734183,1816964.93492238,473,Deering,Ipnatchiaq Electric Company,2020,Yes
+-5569.10746326236,1088614.32857205,474,Pedro Bay,Pedro Bay Village,2020,Yes
+90121.6496562936,1691441.77576932,475,Tanana,"Tanana Power Company, Inc.",2020,Yes
+-261536.801805181,990939.243875891,476,Clark's Point,Village of Clarks Point,2020,Yes
+-432827.103657056,1215958.46314431,477,Napakiak,Napakiak Ircinraq Power Company,2020,Yes
+-18952.5580286519,1449357.21192392,478,Nikolai,City of Nikolai,2020,Yes
+-463440.278725839,1359992.70645285,479,Pilot Station,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-227607.668616794,2305095.9767901,480,Wainwright,North Slope Borough Power & Light,2020,Yes
+-289403.787693261,1009209.22031295,481,Manokotak,Manokotak Power Company,2020,Yes
+-167084.821254186,1306713.95158893,482,Sleetmute,"Middle Kuskokwim Electric Coopertive, Inc.",2020,Yes
+-431808.216810717,1038370.39728577,483,Goodnews Bay,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-541048.640165177,1860130.42371255,484,Shishmaref,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-545130.115627811,1662011.78006188,485,Nome,Nome Joint Utility System,2020,Yes
+-163064.943324316,1016557.94380798,486,Levelock,"Levelock Electric Cooperative, Inc.",2020,Yes
+1022927.27343356,1047160.29761342,487,Elfin Cove,Elfin Cove Utility Commission,2020,Yes
+-493156.020425217,1140801.22915914,488,Kongiganak,Puvurnaq Power Company,2020,Yes
+1279440.82446425,852898.63754349,489,Naukati Bay,Alaska Power Company,2020,Yes
+1144736.49530355,1001399.30409643,490,Angoon,"Inside Passage Electric Cooperative, Inc.",2020,Yes
+-377013.715648148,1906544.48611949,491,Kotzebue,"Kotzebue Electric Association, Inc.",2020,Yes
+-175287.099591471,1316026.17556781,492,Red Devil,"Middle Kuskokwim Electric Coopertive, Inc.",2020,Yes
+208090.297793577,1313544.47508187,493,Willow,"Matanuska Electric Association, Inc.",2020,No
+-637703.69598663,1341749.41966851,494,Hooper Bay,"Alaska Village Electric Cooperative, Inc",2020,Yes
+244851.204268498,1554216.24330167,495,Healy,"Golden Valley Electric Association, Inc.",2020,No
+115434.355028723,2251263.44261842,496,Nuiqsut,North Slope Borough Power & Light,2020,Yes
+439627.705608474,1376652.70899664,497,Glennallen,"Copper Valley Electric Association, Inc.",2020,No
+-766479.910475392,525927.743350198,498,Akutan,City of Akutan,2020,Yes
+-168357.796042103,1908076.86269952,499,Ambler,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-373148.240750568,1254734.01287349,500,Tuluksak,Tuluksak Traditional Power Utility,2020,Yes
+-1366062.6920054,452266.93070329,501,Atka,City of Atka,2020,Yes
+60176.824355894,1845337.73673645,502,Allakaket,Alaska Power Company,2020,Yes
+-352627.094869032,2220589.19246845,503,Point Lay,North Slope Borough Power & Light,2020,Yes
+252540.636570125,1132499.53625932,504,Seward,City of Seward,2020,No
+-76595.5868569749,1264712.55935681,505,Lime Village,Lime Village Electric Cooperative,2020,Yes
+-292239.010092156,1301035.34428872,506,Aniak,"Aniak Light and Power Company, Inc.",2020,Yes
+-173605.947377928,972356.745251087,507,South Naknek,"Naknek Electric Association, Inc.",2020,Yes
+1041543.03884484,1173102.92775379,508,Haines,Alaska Power Company,2020,Yes
+218083.07061332,1695656.59737064,509,Minto,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-324000.541170265,1797365.1997631,510,Buckland,City of Buckland,2020,Yes
+-307074.484708072,1451345.5736835,511,Grayling,"Alaska Village Electric Cooperative, Inc",2020,Yes
+505210.692464188,1318323.26146793,512,Chitina,"Chitina Electric, Inc.",2020,Yes
+43179.509619964,801115.998141873,513,Old Harbor,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-47715.5850566393,1109006.41072581,514,Nondalton,I-N-N Electric Cooperative Inc.,2020,Yes
+1098843.59174464,1020605.81594615,515,Tenakee Springs,City of Tenakee Springs,2020,Yes
+607202.995889011,1498808.08882307,516,Northway,Alaska Power Company,2020,Yes
+94894.1751459759,2021732.21131396,517,Anaktuvuk Pass,North Slope Borough Power & Light,2020,Yes
+-805515.136213651,1625678.78277187,518,Savoonga,"Alaska Village Electric Cooperative, Inc",2020,Yes
+422843.028275784,1763917.53285218,519,Central,Gold Country Energy,2020,Yes
+-645492.756304416,1807658.53281773,520,Wales,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-554523.913632872,1440759.94998111,521,Nunam Iqua,Nunam Iqua Electric Company,2020,Yes
+-974185.249990874,910524.195606546,522,Saint Paul,City of Saint Paul,2020,Yes
+-262308.612461073,1040822.18417894,523,Aleknagik,"Nushagak Electric Cooperative, Incorporated",2020,Yes
+547792.116039577,1530825.07227062,524,Tok,Alaska Power Company,2020,Yes
+177265.835307035,1732264.22705703,525,Rampart,Rampart Village Council,2020,No
+1261271.08419403,957469.206997323,526,Petersburg,Petersburg Borough,2020,No
+490071.142611037,1557800.75447036,527,Dot Lake Village,Alaska Power Company,2020,Yes
+-482902.084484234,1373351.25797421,528,Pitkas Point,"Alaska Village Electric Cooperative, Inc",2020,Yes
+367734.179577302,1834380.62764397,529,Birch Creek,Birch Creek Village Electric Utilities,2020,Yes
+-441451.852918794,1110782.82189395,530,Quinhagak,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-602750.752160449,580772.977697475,531,False Pass,City of False Pass,2020,Yes
+604270.153138677,1705897.93684688,532,Eagle,Alaska Power Company,2020,Yes
+-447225.791769303,2009807.19340044,533,Kivalina,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-310203.95042872,1891560.16964191,534,Noorvik,"Alaska Village Electric Cooperative, Inc",2020,Yes
+477050.767528564,1432884.56382823,535,Chistochina,Alaska Power Company,2020,Yes
+-280193.742651678,709704.775156877,536,Chignik Lagoon,Chignik Lagoon Power Utility,2020,Yes
+-184086.739132799,1086250.01456556,537,Koliganek,New Koliganek Village Council,2020,Yes
+1296627.69138198,875531.322046869,538,Coffman Cove,Alaska Power Company,2020,Yes
+-390087.745779022,1235043.28228904,539,Akiak,City of Akiak,2020,Yes
+-154171.846505468,967957.788887921,540,King Salmon,"Naknek Electric Association, Inc.",2020,Yes
+1198537.96643152,956568.247197351,541,Kake,"Inside Passage Electric Cooperative, Inc.",2020,Yes
+-611354.424221957,1336742.93808656,542,Chevak,"Alaska Village Electric Cooperative, Inc",2020,Yes
+1076331.88668661,1052302.38252826,543,Hoonah,"Inside Passage Electric Cooperative, Inc.",2020,Yes
+449342.259478468,1201051.13508385,544,Cordova,"Cordova Electric Cooperative, Inc.",2020,Yes
+1325892.93821721,822796.348237747,545,Hollis,Alaska Power Company,2020,Yes
+221714.696270084,1301745.84373663,546,Houston,"Matanuska Electric Association, Inc.",2020,No
+-421581.595860075,1217808.67340489,547,Oscarville,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-267001.161616563,1861743.41404769,548,Selawik,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-316464.020166387,1423712.40568258,549,Anvik,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-346517.325479851,1617843.76690688,550,Shaktoolik,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-422939.120937902,1348502.57937497,551,Marshall,"Alaska Village Electric Cooperative, Inc",2020,Yes
+574650.660762974,1512987.73354109,552,Tetlin,Alaska Power Company,2020,Yes
+-255124.356889429,1013454.33727143,553,Dillingham,"Nushagak Electric Cooperative, Incorporated",2020,Yes
+-526202.60112902,2093518.87211088,554,Point Hope,North Slope Borough Power & Light,2020,Yes
+402016.95373835,1589787.53174982,555,Delta Junction,"Golden Valley Electric Association, Inc.",2020,No
+-272640.696692714,708170.914671806,556,Chignik,City of Chignik,2020,Yes
+1115221.96070411,940259.193283325,557,Sitka,City and Borough of Sitka,2020,No
+-504640.533465355,1383006.48491385,558,Mountain Village,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-277207.120872475,1299381.93357958,559,Chuathbaluk,"Middle Kuskokwim Electric Coopertive, Inc.",2020,Yes
+-509341.421585239,1133719.63178881,560,Kwigillingok,Kwigillingok Power Company,2020,Yes
+-174279.43217255,974059.91252268,561,Naknek,"Naknek Electric Association, Inc.",2020,Yes
+-299104.583730028,1371169.35640814,562,Holy Cross,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-26064.7996387458,839943.077749614,563,Karluk,Karluk IRA Tribal Council,2020,Yes
+297451.122482249,1667250.52584127,564,Fairbanks,"Golden Valley Electric Association, Inc.",2020,No
+95027.5224326542,866747.9369809,565,Kodiak,"Kodiak Electric Association, Inc.",2020,No
+-126722.685988196,1886093.87198362,566,Kobuk,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-364120.520402744,1024741.77608156,567,Togiak,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-410655.966695141,1531965.84908907,568,Stebbins,"Alaska Village Electric Cooperative, Inc",2020,Yes
+109597.858504399,1887280.71970875,569,Evansville,Alaska Power Company,2020,Yes
+489565.635201638,1557989.91244552,570,Dot Lake,Alaska Power Company,2020,Yes
+295946.081733104,1837251.58905714,571,Beaver,Beaver Joint Utilities,2020,Yes
+-556949.242780928,1147348.43634021,572,Kipnuk,Kipnuk Light Plant,2020,Yes
+-666097.80139643,1216835.65731049,573,Mekoryuk,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-384157.774716963,1983045.85661991,574,Noatak,"Alaska Village Electric Cooperative, Inc",2020,Yes
+138629.431092521,1075412.72159425,575,Homer,Homer Electric Association Inc,2020,No
+158600.182562796,1674612.23033107,576,Manley Hot Springs,TDX Manley Generating LLC,2020,Yes
+-401780.778584857,1237051.63336104,577,Akiachak,Akiachak Native Community (ANC) Electric Company,2020,Yes
+-175319.742638924,1662762.26264484,578,Koyukuk,City of Koyukuk,2020,Yes
+-358378.418504991,1025834.33468098,579,Twin Hills,Twin Hills Village,2020,Yes
+-431919.643857906,1649447.6365716,580,Golovin,Golovin Power Utilities,2020,Yes
+-138064.811931058,1884423.58186544,581,Shungnak,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-187051.232425995,1055625.0881875,582,New Stuyahok,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-533862.500488994,1465251.0985118,583,Emmonak,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-215167.684534527,1328137.39160367,584,Crooked Creek,"Middle Kuskokwim Electric Coopertive, Inc.",2020,Yes
+-611413.525021059,1229766.47294829,585,Tununak,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-195453.203694237,1646254.07648895,586,Nulato,"Alaska Village Electric Cooperative, Inc",2020,Yes
+1296632.86162785,821637.582139224,587,Klawock,Alaska Power Company,2020,Yes
+1275681.25090895,880764.434072811,588,Whale Pass,Alaska Power Company,2020,Yes
+200806.566477601,1377989.09479474,589,Talkeetna,"Matanuska Electric Association, Inc.",2020,No
+-456125.054896778,1241722.08129476,590,Nunapitchuk,"Alaska Village Electric Cooperative, Inc",2020,Yes
+57879.5116973947,1844678.29560101,591,Alatna,Alaska Power Company,2020,Yes
+258015.620438038,1300696.69892349,592,Palmer,"Matanuska Electric Association, Inc.",2020,No
+453138.587430948,1797102.49217214,593,Circle,"Circle Electric, LLC",2020,Yes
+-10519.3318614154,771139.191692125,594,Akhiok,Akhiok/Kaguyak Electric,2020,Yes
+605919.0008297,1500893.72891383,595,Northway Village,Alaska Power Company,2020,Yes
+-136053.465971829,1314823.93224772,596,Stony River,"Middle Kuskokwim Electric Coopertive, Inc.",2020,Yes
+1403405.22448079,807389.176039656,597,Metlakatla,Metlakatla Power & Light,2020,No
+88385.3853077032,881147.13012034,598,Ouzinkie,City of Ouzinkie,2020,Yes
+-282383.760555465,1421013.58135403,599,Shageluk,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-101340.08517859,2367854.78395269,600,Utqiagvik,Barrow Utilities and Electric Cooperative Inc,2020,No
+-480768.456775202,1486120.89410419,601,Kotlik,"Alaska Village Electric Cooperative, Inc",2020,Yes
+453029.113472066,1590781.60862323,602,Healy Lake,Alaska Power Company,2020,Yes
+514789.763027999,1479498.63086065,603,Mentasta Lake,Alaska Power Company,2020,Yes
+354055.304168875,2041227.33626006,604,Arctic Village,Arctic Village Council,2020,Yes
+1050532.36181576,1080255.03184299,605,Gustavus,Alaska Power Company,2020,Yes
+-50740.8886460557,1085205.2101001,606,Iliamna,I-N-N Electric Cooperative Inc.,2020,Yes
+223409.289170116,1791220.15498526,607,Stevens Village,Stevens Village IRA Council,2020,No
+331181.261595623,1914361.61081032,608,Venetie,Village of Venetie,2020,Yes
+399600.549366245,2270028.55604022,609,Kaktovik,North Slope Borough Power & Light,2020,Yes
+1390950.75286723,828555.095617095,610,Ketchikan,City of Ketchikan,2020,No
+237525.488448193,1267348.44888482,611,Eagle River,"Matanuska Electric Association, Inc.",2020,No
+1326319.36788725,846815.094827237,612,Thorne Bay,Alaska Power Company,2020,Yes
+-420708.278583235,1225426.14136511,613,Bethel,"Alaska Village Electric Cooperative, Inc",2020,Yes
+243842.042777831,1300864.17626285,614,Tanaina,"Matanuska Electric Association, Inc.",2020,No
+-566470.863051303,1173895.33647436,615,Chefornak,Naterkaq Light Plant,2020,Yes
+-338182.669797935,1681583.81082618,616,Koyuk,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-70886.7990080763,1642768.92037799,617,Ruby,City of Ruby,2020,Yes
+-442312.968289999,1163544.89979583,618,Eek,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-578884.171153793,1762943.25312878,619,Brevig Mission,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-475945.642041781,1181762.44420864,620,Tuntutuliak,Tuntutuliak Community Service Association,2020,Yes
+-604707.768126036,1222202.94569942,621,Toksook Bay,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-529656.810844552,593924.882474006,622,King Cove,City of King Cove,2020,Yes
+-294536.616202522,704372.952104132,623,Chignik Lake,"Chignik Lake Electric Utility, Inc.",2020,Yes
+-459491.849515607,1241856.61615762,624,Kasigluk,"Alaska Village Electric Cooperative, Inc",2020,Yes
+1007108.68796088,1181897.71287361,625,Covenant Life,Alaska Power Company,2020,Yes
+509907.186959205,1453550.80144447,626,Slana,Alaska Power Company,2020,Yes
+240926.821971153,1297506.21747755,627,Wasilla,"Matanuska Electric Association, Inc.",2020,No
+-476820.244012596,1374720.1165265,628,Saint Mary's,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-332652.664299918,1562728.30203533,629,Unalakleet,"Unalakleet Valley Electric Cooperative, Inc.",2020,Yes
+-197055.84612121,1044794.93639563,630,Ekwok,"Alaska Village Electric Cooperative, Inc",2020,Yes
+219654.775923324,1255116.01268035,631,Anchorage,"Chugach Electric Association, Inc.",2020,No
+-447900.339245922,689960.464606835,632,Nelson Lagoon,"Nelson Lagoon Electrical Cooperative, Inc.",2020,Yes
+-571660.995860192,1262920.03622587,633,Newtok,Ungusraq Power Company,2020,Yes
+-80396.1108252345,1443158.11815246,634,McGrath,McGrath Light & Power Co.,2020,Yes
+-585242.257059794,1213354.10165248,635,Nightmute,"Alaska Village Electric Cooperative, Inc",2020,Yes
+1012028.66690744,1184048.99283362,636,Klukwan,"Inside Passage Electric Cooperative, Inc.",2020,Yes
+-281947.629636162,1904401.94665282,637,Kiana,"Alaska Village Electric Cooperative, Inc",2020,Yes
+146878.469735024,1197439.92672297,638,Nikiski,Homer Electric Association Inc,2020,No
+454360.989405363,1889974.85638339,639,Chalkyitsik,Chalkyitsik Village,2020,Yes
+-136929.048131091,1645322.79517116,640,Galena,City of Galena,2020,Yes
+315855.959761862,1659546.0701719,641,North Pole,"Golden Valley Electric Association, Inc.",2020,No
+128947.580591873,1051951.17416714,642,Seldovia,Homer Electric Association Inc,2020,No
+-228052.174361995,1604048.17941984,643,Kaltag,"Alaska Village Electric Cooperative, Inc",2020,Yes
+612876.26791444,1505401.73313266,644,Northway Junction,Alaska Power Company,2020,Yes
+-337064.437875804,1297603.52884566,645,Lower Kalskag,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-680551.237413938,1832482.86785282,646,Diomede,Diomede Joint Utilities,2020,Yes
+1110.1843822052,837018.823366526,647,Larsen Bay,Larsen Bay Utility Company,2020,Yes
+-107962.714497153,1038397.38657463,648,Igiugig,Igiugig Electric Company,2020,Yes
+395313.728565778,1231228.57346929,649,Tatitlek,Native Village of Tatitlek,2020,Yes
+389073.564573699,1871099.72992694,650,Fort Yukon,Gwitchyaa Zhee Utility Company,2020,Yes
+-542392.68206103,1456437.72182411,651,Alakanuk,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-402442.765696949,1225580.36430067,652,Kwethluk,Kwethluk Incorporated,2020,Yes
+1036362.75188977,1023817.93801456,653,Pelican,Pelican Utilities,2020,No
+109496.401507577,1886970.73243223,654,Bettles,Alaska Power Company,2020,Yes
+-447479.312091524,1667267.50587921,655,White Mountain,City of White Mountain,2020,Yes
+-446428.791068836,1027721.60972818,656,Platinum,City of Platinum,2020,No
+-320960.031211704,668095.588478032,657,Perryville,Native Village of Perryville,2020,Yes
+-280398.794506824,779012.636349441,658,Port Heiden,City of Port Heiden,2020,Yes
+-11727.409237893,1787572.07370767,659,Hughes,Hughes Power & Light,2020,Yes
+-213420.916165604,845809.064475104,660,Pilot Point,Pilot Point Electric Utility,2020,Yes
+-384325.307776448,1333013.66724658,661,Russian Mission,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-446969.846134871,1236061.98697927,662,Atmautluak,Atmautluak Tribal Utilities,2020,Yes
+-197745.899534609,917108.324736896,663,Egegik,City of Egegik,2020,Yes
+-334222.042316608,1300232.52489235,664,Upper Kalskag,"Alaska Village Electric Cooperative, Inc",2020,Yes
+331739.412198896,1134592.127647,665,Chenega,Chenega IRA Council,2020,Yes
+-394183.886304622,1652848.63040226,666,Elim,"Alaska Village Electric Cooperative, Inc",2020,Yes
+1306628.34428561,932518.315928681,667,Wrangell,City and Borough of Wrangell,2020,No
+1296030.65760968,812250.477347349,668,Craig,Alaska Power Company,2020,Yes
+-104230.160828436,1448041.57850457,669,Takotna,Takotna Community Assn.,2020,Yes
+-1537200.80409957,470990.071658981,670,Adak,"TDX Adak Generating, LLC",2020,Yes
+528914.501725091,1532292.0107361,671,Tanacross,Alaska Power Company,2020,Yes
+-50158.9487624714,1081425.19631835,672,Newhalen,I-N-N Electric Cooperative Inc.,2020,Yes
+-18128.321651304,1134258.52930023,673,Port Alsworth,"Tanalian Electric Cooperative, Inc.",2020,Yes
+219654.775923324,1255116.01268035,674,Anchorage,Municipal Light & Power,2020,No
+409518.872278663,1262298.70131742,675,Valdez,"Copper Valley Electric Association, Inc.",2020,No
+-993846.955920641,436840.75156824,676,Nikolski,Umnak Power Company,2020,Yes
+1338594.06514505,833795.41108672,677,Kasaan,Alaska Power Company,2020,Yes
+-861997.814284141,1650244.02734943,678,Gambell,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-130178.283503762,2281005.01007065,679,Atqasuk,North Slope Borough Power & Light,2020,Yes
+1325135.64850376,790122.786706786,680,Hydaburg,Alaska Power Company,2020,Yes
+-411466.861134354,612219.93928279,681,Sand Point,TDX Corporation,2020,Yes
+-477710.913865003,1374361.95588113,682,Andreafsky,"Alaska Village Electric Cooperative, Inc",2020,Yes
+-420788.280794596,1216092.28363176,683,Napaskiak,Napaskiak Electric Utility,2020,Yes
